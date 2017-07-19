@@ -1,0 +1,4663 @@
+[{
+	"bookurData": "Aberdeen",
+	"wikiData": "Aberdeen",
+	"bookurDataId": "57ed26a16d0e810b357b26a5",
+	"wikiDataId": "59647637811c3f826c497409",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Abidjan",
+	"wikiData": "Abidjan",
+	"bookurDataId": "57ed26a16d0e810b357b26a9",
+	"wikiDataId": "59647637811c3f826c49741d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Abu Dhabi",
+	"wikiData": "Abu Dhabi",
+	"bookurDataId": "57ed26a16d0e810b357b26ad",
+	"wikiDataId": "59647637811c3f826c497435",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Abuja",
+	"wikiData": "Abuja",
+	"bookurDataId": "57ed26a16d0e810b357b26b1",
+	"wikiDataId": "59647637811c3f826c497439",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Accra",
+	"wikiData": "Accra",
+	"bookurDataId": "57ed26a16d0e810b357b26b5",
+	"wikiDataId": "59647638811c3f826c49744a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Addis Ababa",
+	"wikiData": "Addis Ababa",
+	"bookurDataId": "57ed26a16d0e810b357b26b9",
+	"wikiDataId": "59647638811c3f826c497480",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Adelaide",
+	"wikiData": "Adelaide",
+	"bookurDataId": "57ed26a16d0e810b357b26bd",
+	"wikiDataId": "59647639811c3f826c497486",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Adirondacks",
+	"wikiData": "Adirondacks",
+	"bookurDataId": "57ed26a16d0e810b357b26c1",
+	"wikiDataId": "59647639811c3f826c49748d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Agadir",
+	"wikiData": "Agadir",
+	"bookurDataId": "57ed26a16d0e810b357b26c9",
+	"wikiDataId": "5964763a811c3f826c4974b5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Agra",
+	"wikiData": "Agra",
+	"bookurDataId": "57ed26a26d0e810b357b26cd",
+	"wikiDataId": "5964763a811c3f826c4974cf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ahmedabad",
+	"wikiData": "Ahmedabad",
+	"bookurDataId": "57ed26a26d0e810b357b26d1",
+	"wikiDataId": "5964763b811c3f826c4974ea",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Aitutaki",
+	"wikiData": "Aitutaki",
+	"bookurDataId": "57ed26a26d0e810b357b26d5",
+	"wikiDataId": "5964763b811c3f826c497517",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Al Ain",
+	"wikiData": "Al Ain",
+	"bookurDataId": "57ed26a26d0e810b357b26d9",
+	"wikiDataId": "5964763c811c3f826c497561",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Albuquerque",
+	"wikiData": "Albuquerque",
+	"bookurDataId": "57ed26a26d0e810b357b26dd",
+	"wikiDataId": "5964763e811c3f826c4975a3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Alderney",
+	"wikiData": "Alderney",
+	"bookurDataId": "57ed26a26d0e810b357b26e1",
+	"wikiDataId": "5964763e811c3f826c4975b4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Aleppo",
+	"wikiData": "Aleppo",
+	"bookurDataId": "57ed26a26d0e810b357b26e5",
+	"wikiDataId": "5964763e811c3f826c4975c0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Algiers",
+	"wikiData": "Algiers",
+	"bookurDataId": "57ed26a26d0e810b357b26e9",
+	"wikiDataId": "5964763e811c3f826c4975e1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Alicante",
+	"wikiData": "Alicante",
+	"bookurDataId": "57ed26a26d0e810b357b26ed",
+	"wikiDataId": "5964763f811c3f826c4975ee",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Alice Springs",
+	"wikiData": "Alice Springs",
+	"bookurDataId": "57ed26a26d0e810b357b26f1",
+	"wikiDataId": "5964763f811c3f826c4975f4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Almaty",
+	"wikiData": "Almaty",
+	"bookurDataId": "57ed26a26d0e810b357b26f5",
+	"wikiDataId": "59647640811c3f826c497626",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Alsace Lorraine",
+	"wikiData": "Alsace-Lorraine",
+	"bookurDataId": "57ed26a26d0e810b357b26f9",
+	"wikiDataId": "5965cb6010456ad9692454a8",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Amalfi Coast",
+	"wikiData": "Amalfi Coast",
+	"bookurDataId": "57ed26a26d0e810b357b26fd",
+	"wikiDataId": "59647641811c3f826c4976b0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Amarillo",
+	"wikiData": "Amarillo",
+	"bookurDataId": "57ed26a36d0e810b357b2701",
+	"wikiDataId": "59647641811c3f826c4976bc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Amazon Basin",
+	"wikiData": "Amazon basin",
+	"bookurDataId": "57ed26a36d0e810b357b2705",
+	"wikiDataId": "5965da2610456ad969266d40",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Amber Coast",
+	"wikiData": "Amber Coast",
+	"bookurDataId": "57ed26a36d0e810b357b2709",
+	"wikiDataId": "5966e83a10456ad9699e50eb",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Amman",
+	"wikiData": "Amman",
+	"bookurDataId": "57ed26a36d0e810b357b270d",
+	"wikiDataId": "59647643811c3f826c497710",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Amritsar",
+	"wikiData": "Amritsar",
+	"bookurDataId": "57ed26a36d0e810b357b2711",
+	"wikiDataId": "59647643811c3f826c497721",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Amsterdam",
+	"wikiData": "Amsterdam",
+	"bookurDataId": "57ed26a36d0e810b357b2715",
+	"wikiDataId": "59647643811c3f826c497724",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Anchorage",
+	"wikiData": "Anchorage",
+	"bookurDataId": "57ed26a36d0e810b357b2719",
+	"wikiDataId": "59647644811c3f826c497759",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ankara",
+	"wikiData": "Ankara",
+	"bookurDataId": "57ed26a36d0e810b357b271d",
+	"wikiDataId": "59647646811c3f826c4977be",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Annapolis",
+	"wikiData": "Annapolis",
+	"bookurDataId": "57ed26a36d0e810b357b2721",
+	"wikiDataId": "59647646811c3f826c4977ca",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Antananarivo",
+	"wikiData": "Antananarivo",
+	"bookurDataId": "57ed26a36d0e810b357b2725",
+	"wikiDataId": "59647647811c3f826c4977e4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Antigua",
+	"wikiData": "Antigua",
+	"bookurDataId": "57ed26a36d0e810b357b2729",
+	"wikiDataId": "59647647811c3f826c4977f6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Antigua Guatemala",
+	"wikiData": "Antigua Guatemala",
+	"bookurDataId": "57ed26a46d0e810b357b272d",
+	"wikiDataId": "59647647811c3f826c4977fb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Antwerp",
+	"wikiData": "Antwerp",
+	"bookurDataId": "57ed26a46d0e810b357b2731",
+	"wikiDataId": "59647648811c3f826c49780f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Aqaba",
+	"wikiData": "Aqaba",
+	"bookurDataId": "57ed26a46d0e810b357b2735",
+	"wikiDataId": "59647648811c3f826c497857",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Arequipa",
+	"wikiData": "Arequipa",
+	"bookurDataId": "57ed26a46d0e810b357b2739",
+	"wikiDataId": "5964764a811c3f826c4978bf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Asheville",
+	"wikiData": "Asheville",
+	"bookurDataId": "57ed26a46d0e810b357b273d",
+	"wikiDataId": "5964764d811c3f826c49794b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ashgabat",
+	"wikiData": "Ashgabat",
+	"bookurDataId": "57ed26a46d0e810b357b2741",
+	"wikiDataId": "5964764d811c3f826c497953",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Astana",
+	"wikiData": "Astana",
+	"bookurDataId": "57ed26a46d0e810b357b2745",
+	"wikiDataId": "5964764e811c3f826c497986",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Asuncion",
+	"wikiData": "Asunción",
+	"bookurDataId": "57ed26a46d0e810b357b2749",
+	"wikiDataId": "5964764e811c3f826c497993",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Athens",
+	"wikiData": "Athens",
+	"bookurDataId": "57ed26a46d0e810b357b274d",
+	"wikiDataId": "5964764e811c3f826c4979a2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Atlanta",
+	"wikiData": "Atlanta",
+	"bookurDataId": "57ed26a46d0e810b357b2751",
+	"wikiDataId": "5964764f811c3f826c4979be",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Auckland",
+	"wikiData": "Auckland",
+	"bookurDataId": "57ed26a46d0e810b357b2755",
+	"wikiDataId": "59647650811c3f826c497a09",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Austin",
+	"wikiData": "Austin",
+	"bookurDataId": "57ed26a56d0e810b357b2759",
+	"wikiDataId": "59647650811c3f826c497a37",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Austrian Alps",
+	"wikiData": "Central Eastern Alps",
+	"bookurDataId": "57ed26a56d0e810b357b275d",
+	"wikiDataId": "5965f05510456ad9692c1587",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Avignon",
+	"wikiData": "Avignon",
+	"bookurDataId": "57ed26a56d0e810b357b2761",
+	"wikiDataId": "59647652811c3f826c497a70",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Baja California",
+	"wikiData": "Baja California",
+	"bookurDataId": "57ed26a56d0e810b357b2765",
+	"wikiDataId": "59647655811c3f826c497b79",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Baku",
+	"wikiData": "Baku",
+	"bookurDataId": "57ed26a56d0e810b357b2769",
+	"wikiDataId": "59647655811c3f826c497b92",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bali",
+	"wikiData": "Bali",
+	"bookurDataId": "57ed26a56d0e810b357b276d",
+	"wikiDataId": "59647656811c3f826c497bac",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Baltimore",
+	"wikiData": "Baltimore",
+	"bookurDataId": "57ed26a56d0e810b357b2771",
+	"wikiDataId": "59647657811c3f826c497beb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bandar Seri Begawan",
+	"wikiData": "Bandar Seri Begawan",
+	"bookurDataId": "57ed26a56d0e810b357b2775",
+	"wikiDataId": "59647658811c3f826c497c29",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bangkok",
+	"wikiData": "Bangkok",
+	"bookurDataId": "57ed26a56d0e810b357b2779",
+	"wikiDataId": "5964765a811c3f826c497c4c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Barbuda",
+	"wikiData": "Barbuda",
+	"bookurDataId": "57ed26a56d0e810b357b277d",
+	"wikiDataId": "5964765c811c3f826c497cbf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Barcelona",
+	"wikiData": "Barcelona",
+	"bookurDataId": "57ed26a56d0e810b357b2781",
+	"wikiDataId": "5964765c811c3f826c497cc1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Basel",
+	"wikiData": "Basel",
+	"bookurDataId": "57ed26a66d0e810b357b2785",
+	"wikiDataId": "5964765e811c3f826c497d2c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Basque Country",
+	"wikiData": "Basque Country",
+	"bookurDataId": "57ed26a66d0e810b357b2789",
+	"wikiDataId": "5964765e811c3f826c497d3b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bath",
+	"wikiData": "Bath",
+	"bookurDataId": "57ed26a66d0e810b357b278d",
+	"wikiDataId": "5964765f811c3f826c497d5d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Baton Rouge",
+	"wikiData": "Baton Rouge",
+	"bookurDataId": "57ed26a66d0e810b357b2791",
+	"wikiDataId": "5964765f811c3f826c497d6e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Battlefields",
+	"wikiData": "Battlefields",
+	"bookurDataId": "57ed26a66d0e810b357b2795",
+	"wikiDataId": "596670e310456ad9696c791b",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Bazaruto Archipelago",
+	"wikiData": "Bazaruto National Sea Park",
+	"bookurDataId": "57ed26a66d0e810b357b2799",
+	"wikiDataId": "59647660811c3f826c497dc8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Beijing",
+	"wikiData": "Beijing",
+	"bookurDataId": "57ed26a66d0e810b357b279d",
+	"wikiDataId": "59647662811c3f826c497e32",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Beirut",
+	"wikiData": "Beirut",
+	"bookurDataId": "57ed26a66d0e810b357b27a1",
+	"wikiDataId": "59647662811c3f826c497e48",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Belfast",
+	"wikiData": "Belfast",
+	"bookurDataId": "57ed26a66d0e810b357b27a5",
+	"wikiDataId": "59647663811c3f826c497e6f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Belgrade",
+	"wikiData": "Belgrade",
+	"bookurDataId": "57ed26a66d0e810b357b27a9",
+	"wikiDataId": "59647664811c3f826c497e7b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Belize City",
+	"wikiData": "Belize City",
+	"bookurDataId": "57ed26a66d0e810b357b27ad",
+	"wikiDataId": "59647664811c3f826c497e85",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Belo Horizonte",
+	"wikiData": "Belo Horizonte",
+	"bookurDataId": "57ed26a66d0e810b357b27b1",
+	"wikiDataId": "59647665811c3f826c497ebc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bengaluru",
+	"wikiData": "Bangalore",
+	"bookurDataId": "57ed26a76d0e810b357b27b5",
+	"wikiDataId": "59647659811c3f826c497c3f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bergen",
+	"wikiData": "Bergen",
+	"bookurDataId": "57ed26a76d0e810b357b27b9",
+	"wikiDataId": "59647666811c3f826c497f2d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Berlin",
+	"wikiData": "Berlin",
+	"bookurDataId": "57ed26a76d0e810b357b27bd",
+	"wikiDataId": "59647667811c3f826c497f4f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bernese Oberland",
+	"wikiData": "Bernese Highlands",
+	"bookurDataId": "57ed26a76d0e810b357b27c1",
+	"wikiDataId": "59647668811c3f826c497f79",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Biarritz",
+	"wikiData": "Biarritz",
+	"bookurDataId": "57ed26a76d0e810b357b27c5",
+	"wikiDataId": "59647669811c3f826c497ffd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Big Island",
+	"wikiData": "Big Island",
+	"bookurDataId": "57ed26a76d0e810b357b27c9",
+	"wikiDataId": "5964766b811c3f826c498029",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bilbao",
+	"wikiData": "Bilbao",
+	"bookurDataId": "57ed26a76d0e810b357b27cd",
+	"wikiDataId": "5964766c811c3f826c498053",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Billings",
+	"wikiData": "Billings",
+	"bookurDataId": "57ed26a76d0e810b357b27d1",
+	"wikiDataId": "5964766c811c3f826c49805c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Billund",
+	"wikiData": "Billund",
+	"bookurDataId": "57ed26a76d0e810b357b27d5",
+	"wikiDataId": "5964766c811c3f826c49805f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Biloxi",
+	"wikiData": "Biloxi",
+	"bookurDataId": "57ed26a76d0e810b357b27d9",
+	"wikiDataId": "5964766c811c3f826c498060",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Birmingham",
+	"wikiData": "Birmingham",
+	"bookurDataId": "57ed26a76d0e810b357b27dd",
+	"wikiDataId": "59665d5610456ad9695fd28d",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Bishkek",
+	"wikiData": "Bishkek",
+	"bookurDataId": "57ed26a86d0e810b357b27e5",
+	"wikiDataId": "5964766d811c3f826c498093",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Black Hills",
+	"wikiData": "Black Hills",
+	"bookurDataId": "57ed26a86d0e810b357b27e9",
+	"wikiDataId": "596681a110456ad96974c919",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Black Sea Coast",
+	"wikiData": "Black Sea",
+	"bookurDataId": "57ed26a86d0e810b357b27ed",
+	"wikiDataId": "59647899811c3f826c4a267c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Blantyre",
+	"wikiData": "Blantyre",
+	"bookurDataId": "57ed26a86d0e810b357b27f1",
+	"wikiDataId": "5964766e811c3f826c4980ec",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bloemfontein",
+	"wikiData": "Bloemfontein",
+	"bookurDataId": "57ed26a86d0e810b357b27f5",
+	"wikiDataId": "5964766f811c3f826c4980f9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bogota",
+	"wikiData": "Bogotá",
+	"bookurDataId": "57ed26a86d0e810b357b27f9",
+	"wikiDataId": "59647670811c3f826c498162",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Boise",
+	"wikiData": "Boise",
+	"bookurDataId": "57ed26a86d0e810b357b27fd",
+	"wikiDataId": "59647671811c3f826c49816e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bologna",
+	"wikiData": "Bologna",
+	"bookurDataId": "57ed26a86d0e810b357b2801",
+	"wikiDataId": "59647671811c3f826c49818e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bora Bora",
+	"wikiData": "Bora Bora",
+	"bookurDataId": "57ed26a86d0e810b357b2805",
+	"wikiDataId": "59647672811c3f826c4981f0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bordeaux",
+	"wikiData": "Bordeaux",
+	"bookurDataId": "57ed26a86d0e810b357b2809",
+	"wikiDataId": "5964787b811c3f826c4a1236",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Boston",
+	"wikiData": "Boston",
+	"bookurDataId": "57ed26a86d0e810b357b280d",
+	"wikiDataId": "59647673811c3f826c49821d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Brasilia",
+	"wikiData": "Brasilia",
+	"bookurDataId": "57ed26a96d0e810b357b2811",
+	"wikiDataId": "59647676811c3f826c4982c5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bratislava",
+	"wikiData": "Bratislava",
+	"bookurDataId": "57ed26a96d0e810b357b2815",
+	"wikiDataId": "59647676811c3f826c4982ca",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Brecon Beacons",
+	"wikiData": "Brecon Beacons National Park",
+	"bookurDataId": "57ed26a96d0e810b357b2819",
+	"wikiDataId": "59647677811c3f826c4982f2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bridgetown",
+	"wikiData": "Bridgetown",
+	"bookurDataId": "57ed26a96d0e810b357b281d",
+	"wikiDataId": "59647678811c3f826c498335",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Brighton",
+	"wikiData": "Brighton",
+	"bookurDataId": "57ed26a96d0e810b357b2821",
+	"wikiDataId": "5965bde310456ad96922a1c4",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Brisbane",
+	"wikiData": "Brisbane",
+	"bookurDataId": "57ed26a96d0e810b357b2825",
+	"wikiDataId": "59647678811c3f826c498352",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bristol",
+	"wikiData": "Bristol",
+	"bookurDataId": "57ed26a96d0e810b357b2829",
+	"wikiDataId": "59647678811c3f826c498355",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Brittany",
+	"wikiData": "Brittany",
+	"bookurDataId": "57ed26a96d0e810b357b282d",
+	"wikiDataId": "59647679811c3f826c498372",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bruges",
+	"wikiData": "Bruges",
+	"bookurDataId": "57ed26a96d0e810b357b2831",
+	"wikiDataId": "5964767a811c3f826c4983dc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Brussels",
+	"wikiData": "Brussels",
+	"bookurDataId": "57ed26a96d0e810b357b2835",
+	"wikiDataId": "5964767b811c3f826c4983f4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bucharest",
+	"wikiData": "Bucharest",
+	"bookurDataId": "57ed26aa6d0e810b357b2839",
+	"wikiDataId": "5964767b811c3f826c49840e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Budapest",
+	"wikiData": "Budapest",
+	"bookurDataId": "57ed26aa6d0e810b357b283d",
+	"wikiDataId": "5964767b811c3f826c498425",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Buenos Aires",
+	"wikiData": "Buenos Aires",
+	"bookurDataId": "57ed26aa6d0e810b357b2841",
+	"wikiDataId": "5964767c811c3f826c498438",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Bulawayo",
+	"wikiData": "Bulawayo",
+	"bookurDataId": "57ed26aa6d0e810b357b2845",
+	"wikiDataId": "5964767e811c3f826c49846e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Busan",
+	"wikiData": "Busan",
+	"bookurDataId": "57ed26aa6d0e810b357b284d",
+	"wikiDataId": "59647680811c3f826c4984ec",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cairns",
+	"wikiData": "Cairns",
+	"bookurDataId": "57ed26aa6d0e810b357b2851",
+	"wikiDataId": "59647683811c3f826c4985f1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cairo",
+	"wikiData": "Cairo",
+	"bookurDataId": "57ed26aa6d0e810b357b2855",
+	"wikiDataId": "59647683811c3f826c4985f2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cajamarca",
+	"wikiData": "Cajamarca",
+	"bookurDataId": "57ed26ab6d0e810b357b2859",
+	"wikiDataId": "59647684811c3f826c49860b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Calgary",
+	"wikiData": "Calgary",
+	"bookurDataId": "57ed26ab6d0e810b357b285d",
+	"wikiDataId": "59647684811c3f826c498640",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cambridge",
+	"wikiData": "Cambridge",
+	"bookurDataId": "57ed26ab6d0e810b357b2861",
+	"wikiDataId": "5965bc9710456ad969228025",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Canadian Rocky Mountains",
+	"wikiData": "Canadian Rockies",
+	"bookurDataId": "57ed26ab6d0e810b357b2865",
+	"wikiDataId": "5965d4d610456ad9692594c2",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Canberra",
+	"wikiData": "Canberra",
+	"bookurDataId": "57ed26ab6d0e810b357b2869",
+	"wikiDataId": "59647688811c3f826c4986cd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cancun",
+	"wikiData": "Cancún",
+	"bookurDataId": "57ed26ab6d0e810b357b286d",
+	"wikiDataId": "59647688811c3f826c4986cf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cape Cod",
+	"wikiData": "Cape Cod",
+	"bookurDataId": "57ed26ab6d0e810b357b2871",
+	"wikiDataId": "59647689811c3f826c498721",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cape Town",
+	"wikiData": "Cape Town",
+	"bookurDataId": "57ed26ab6d0e810b357b2875",
+	"wikiDataId": "5964768a811c3f826c498740",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cape Winelands",
+	"wikiData": "Cape Winelands",
+	"bookurDataId": "57ed26ab6d0e810b357b2879",
+	"wikiDataId": "5964768a811c3f826c498745",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cappadocia",
+	"wikiData": "Cappadocia",
+	"bookurDataId": "57ed26ab6d0e810b357b287d",
+	"wikiDataId": "5964768a811c3f826c498757",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Caracas",
+	"wikiData": "Caracas",
+	"bookurDataId": "57ed26ab6d0e810b357b2881",
+	"wikiDataId": "5964768a811c3f826c49876a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cardiff",
+	"wikiData": "Cardiff",
+	"bookurDataId": "57ed26ac6d0e810b357b2885",
+	"wikiDataId": "5964768b811c3f826c49878e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Carpathian Mountains",
+	"wikiData": "Carpathian Mountains",
+	"bookurDataId": "57ed26ac6d0e810b357b2889",
+	"wikiDataId": "5964768b811c3f826c4987d6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Casablanca",
+	"wikiData": "Casablanca",
+	"bookurDataId": "57ed26ac6d0e810b357b2891",
+	"wikiDataId": "5964768c811c3f826c498807",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cascade Mountain Range",
+	"wikiData": "Cascade Range",
+	"bookurDataId": "57ed26ac6d0e810b357b2895",
+	"wikiDataId": "5965c04910456ad96922e540",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Castries",
+	"wikiData": "Castries",
+	"bookurDataId": "57ed26ac6d0e810b357b2899",
+	"wikiDataId": "5964768d811c3f826c49885e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cayman Brac",
+	"wikiData": "Cayman Brac",
+	"bookurDataId": "57ed26ac6d0e810b357b289d",
+	"wikiDataId": "5964768e811c3f826c4988a1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cebu",
+	"wikiData": "Cebu",
+	"bookurDataId": "57ed26ac6d0e810b357b28a1",
+	"wikiDataId": "5965c6f710456ad96923e6fa",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Central Coast",
+	"wikiData": "Central Coast",
+	"bookurDataId": "57ed26ac6d0e810b357b28a5",
+	"wikiDataId": "5965b88110456ad969223378",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Cephalonia",
+	"wikiData": "Kefalonia",
+	"bookurDataId": "57ed26ad6d0e810b357b28ad",
+	"wikiDataId": "5964771e811c3f826c49ae4b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Charleston West Virginia",
+	"wikiData": "Charleston, West Virginia",
+	"bookurDataId": "57ed26ad6d0e810b357b28b9",
+	"wikiDataId": "5965beb610456ad96922b797",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Charlotte",
+	"wikiData": "Charlotte",
+	"bookurDataId": "57ed26ad6d0e810b357b28bd",
+	"wikiDataId": "59647693811c3f826c498a87",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Charlottetown",
+	"wikiData": "Charlottetown",
+	"bookurDataId": "57ed26ad6d0e810b357b28c1",
+	"wikiDataId": "59647694811c3f826c498a9c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chengdu",
+	"wikiData": "Chengdu",
+	"bookurDataId": "57ed26ad6d0e810b357b28c5",
+	"wikiDataId": "59647695811c3f826c498aed",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chennai",
+	"wikiData": "Chennai",
+	"bookurDataId": "57ed26ad6d0e810b357b28c9",
+	"wikiDataId": "59647695811c3f826c498aef",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cheyenne",
+	"wikiData": "Cheyenne",
+	"bookurDataId": "57ed26ad6d0e810b357b28cd",
+	"wikiDataId": "59647696811c3f826c498b31",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chiang Mai",
+	"wikiData": "Chiang Mai",
+	"bookurDataId": "57ed26ad6d0e810b357b28d1",
+	"wikiDataId": "59647697811c3f826c498b3e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chiang Rai",
+	"wikiData": "Chiang Rai",
+	"bookurDataId": "57ed26ad6d0e810b357b28d5",
+	"wikiDataId": "59647697811c3f826c498b42",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chicago",
+	"wikiData": "Chicago",
+	"bookurDataId": "57ed26ad6d0e810b357b28d9",
+	"wikiDataId": "59647698811c3f826c498b57",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chincoteague Island",
+	"wikiData": "Chincoteague, Virginia",
+	"bookurDataId": "57ed26ae6d0e810b357b28e1",
+	"wikiDataId": "5965c51e10456ad96923a959",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Chiriqui",
+	"wikiData": "Pacific West",
+	"bookurDataId": "57ed26ae6d0e810b357b28e5",
+	"wikiDataId": "59647797811c3f826c49ce35",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Christchurch",
+	"wikiData": "Christchurch",
+	"bookurDataId": "57ed26ae6d0e810b357b28e9",
+	"wikiDataId": "5964769d811c3f826c498cad",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Civitavecchia",
+	"wikiData": "Civitavecchia",
+	"bookurDataId": "57ed26ae6d0e810b357b28ed",
+	"wikiDataId": "5964769f811c3f826c498d35",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cleveland",
+	"wikiData": "Cleveland",
+	"bookurDataId": "57ed26ae6d0e810b357b28f1",
+	"wikiDataId": "596476a0811c3f826c498d82",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cody",
+	"wikiData": "Cody",
+	"bookurDataId": "57ed26ae6d0e810b357b28f5",
+	"wikiDataId": "596476a2811c3f826c498e10",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Coimbra",
+	"wikiData": "Coimbra",
+	"bookurDataId": "57ed26ae6d0e810b357b28f9",
+	"wikiDataId": "596476a2811c3f826c498e19",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cologne",
+	"wikiData": "Cologne",
+	"bookurDataId": "57ed26ae6d0e810b357b28fd",
+	"wikiDataId": "596476a2811c3f826c498e4c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Colombo",
+	"wikiData": "Colombo",
+	"bookurDataId": "57ed26ae6d0e810b357b2901",
+	"wikiDataId": "596476a3811c3f826c498e52",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Colorado Springs",
+	"wikiData": "Colorado Springs",
+	"bookurDataId": "57ed26ae6d0e810b357b2905",
+	"wikiDataId": "596476a3811c3f826c498e66",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Copenhagen",
+	"wikiData": "Copenhagen",
+	"bookurDataId": "57ed26ae6d0e810b357b2909",
+	"wikiDataId": "596476a5811c3f826c498f12",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cordoba",
+	"wikiData": "Córdoba",
+	"bookurDataId": "57ed26af6d0e810b357b290d",
+	"wikiDataId": "5965be4e10456ad96922ab9f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Corfu",
+	"wikiData": "Corfu",
+	"bookurDataId": "57ed26af6d0e810b357b2911",
+	"wikiDataId": "596476a7811c3f826c498f55",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cork",
+	"wikiData": "Cork",
+	"bookurDataId": "57ed26af6d0e810b357b2915",
+	"wikiDataId": "596476a7811c3f826c498f59",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Corsica",
+	"wikiData": "Corsica",
+	"bookurDataId": "57ed26af6d0e810b357b2919",
+	"wikiDataId": "596476a8811c3f826c498f83",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Costa Almeria",
+	"wikiData": "Costa de Almería",
+	"bookurDataId": "57ed26af6d0e810b357b291d",
+	"wikiDataId": "5966afeb10456ad9698aec80",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Costa Blanca",
+	"wikiData": "Costa Blanca",
+	"bookurDataId": "57ed26af6d0e810b357b2921",
+	"wikiDataId": "59647862811c3f826c4a0444",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Costa Brava",
+	"wikiData": "Costa Brava",
+	"bookurDataId": "57ed26af6d0e810b357b2925",
+	"wikiDataId": "596476a8811c3f826c498f9d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Costa de la Luz",
+	"wikiData": "Costa de la Luz",
+	"bookurDataId": "57ed26af6d0e810b357b2929",
+	"wikiDataId": "5964785d811c3f826c4a01d6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Costa del Sol",
+	"wikiData": "Costa del Sol",
+	"bookurDataId": "57ed26af6d0e810b357b292d",
+	"wikiDataId": "596476a8811c3f826c498fa2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Costa Dorada",
+	"wikiData": "Costa Daurada",
+	"bookurDataId": "57ed26af6d0e810b357b2935",
+	"wikiDataId": "5965efc310456ad9692be99a",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Crete",
+	"wikiData": "Crete",
+	"bookurDataId": "57ed26b06d0e810b357b293d",
+	"wikiDataId": "596476aa811c3f826c49904c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Crimea",
+	"wikiData": "Crimea",
+	"bookurDataId": "57ed26b06d0e810b357b2941",
+	"wikiDataId": "596476aa811c3f826c499055",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Curitiba",
+	"wikiData": "Curitiba",
+	"bookurDataId": "57ed26b06d0e810b357b2949",
+	"wikiDataId": "596476ad811c3f826c4990d5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cuzco",
+	"wikiData": "Cuzco",
+	"bookurDataId": "57ed26b06d0e810b357b294d",
+	"wikiDataId": "596476ae811c3f826c4990f3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Da Lat",
+	"wikiData": "Dalat",
+	"bookurDataId": "57ed26b06d0e810b357b2951",
+	"wikiDataId": "596476af811c3f826c499147",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Da Nang",
+	"wikiData": "Da Nang",
+	"bookurDataId": "57ed26b06d0e810b357b2955",
+	"wikiDataId": "596476b0811c3f826c499188",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dakar",
+	"wikiData": "Dakar",
+	"bookurDataId": "57ed26b06d0e810b357b2959",
+	"wikiDataId": "596476af811c3f826c499139",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dallas-Fort Worth",
+	"wikiData": "Dallas-Fort Worth Metroplex",
+	"bookurDataId": "57ed26b06d0e810b357b295d",
+	"wikiDataId": "596476b0811c3f826c499169",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dalmatian Coast",
+	"wikiData": "Dalmatia",
+	"bookurDataId": "57ed26b06d0e810b357b2961",
+	"wikiDataId": "5965bda410456ad969229bd2",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Damascus",
+	"wikiData": "Damascus",
+	"bookurDataId": "57ed26b06d0e810b357b2965",
+	"wikiDataId": "596476b0811c3f826c49917b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dammam",
+	"wikiData": "Dammam",
+	"bookurDataId": "57ed26b06d0e810b357b2969",
+	"wikiDataId": "596476b0811c3f826c499181",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dar Es Salaam",
+	"wikiData": "Dar es Salaam",
+	"bookurDataId": "57ed26b06d0e810b357b296d",
+	"wikiDataId": "5965b89e10456ad96922359d",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Darjeeling",
+	"wikiData": "Darjeeling",
+	"bookurDataId": "57ed26b16d0e810b357b2971",
+	"wikiDataId": "596476b1811c3f826c4991be",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Darwin",
+	"wikiData": "Darwin",
+	"bookurDataId": "57ed26b16d0e810b357b2975",
+	"wikiDataId": "596476b1811c3f826c4991d1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Davao",
+	"wikiData": "Davao",
+	"bookurDataId": "57ed26b16d0e810b357b2979",
+	"wikiDataId": "596476b1811c3f826c4991e7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Delft",
+	"wikiData": "Delft",
+	"bookurDataId": "57ed26b16d0e810b357b297d",
+	"wikiDataId": "596476b3811c3f826c499284",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Delhi",
+	"wikiData": "Delhi",
+	"bookurDataId": "57ed26b16d0e810b357b2981",
+	"wikiDataId": "596476b3811c3f826c499286",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Denver",
+	"wikiData": "Denver",
+	"bookurDataId": "57ed26b16d0e810b357b2985",
+	"wikiDataId": "596476b5811c3f826c4992c1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Des Moines",
+	"wikiData": "Des Moines",
+	"bookurDataId": "57ed26b16d0e810b357b2989",
+	"wikiDataId": "596476b5811c3f826c4992ea",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Detroit",
+	"wikiData": "Detroit",
+	"bookurDataId": "57ed26b16d0e810b357b298d",
+	"wikiDataId": "596476b6811c3f826c4992f2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dhaka",
+	"wikiData": "Dhaka",
+	"bookurDataId": "57ed26b16d0e810b357b2991",
+	"wikiDataId": "596476b6811c3f826c49932e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Doha",
+	"wikiData": "Doha",
+	"bookurDataId": "57ed26b16d0e810b357b2995",
+	"wikiDataId": "596476c0811c3f826c4994bc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Door County",
+	"wikiData": "Door County",
+	"bookurDataId": "57ed26b16d0e810b357b2999",
+	"wikiDataId": "596476c0811c3f826c4994ee",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dresden",
+	"wikiData": "Dresden",
+	"bookurDataId": "57ed26b26d0e810b357b29a1",
+	"wikiDataId": "596476c1811c3f826c499548",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dubai",
+	"wikiData": "Dubai",
+	"bookurDataId": "57ed26b26d0e810b357b29a5",
+	"wikiDataId": "596476c2811c3f826c499571",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dublin",
+	"wikiData": "Dublin",
+	"bookurDataId": "57ed26b26d0e810b357b29a9",
+	"wikiDataId": "596476c2811c3f826c499574",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dubrovnik",
+	"wikiData": "Dubrovnik",
+	"bookurDataId": "57ed26b26d0e810b357b29ad",
+	"wikiDataId": "596476c3811c3f826c49957c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Duluth",
+	"wikiData": "Duluth, Minnesota",
+	"bookurDataId": "57ed26b26d0e810b357b29b1",
+	"wikiDataId": "5965bf4410456ad96922c734",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Durban",
+	"wikiData": "Durban",
+	"bookurDataId": "57ed26b26d0e810b357b29b5",
+	"wikiDataId": "596476c4811c3f826c4995ce",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Dusseldorf",
+	"wikiData": "Düsseldorf",
+	"bookurDataId": "57ed26b26d0e810b357b29bd",
+	"wikiDataId": "596476b2811c3f826c499221",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "East Anglia",
+	"wikiData": "East of England",
+	"bookurDataId": "57ed26b26d0e810b357b29c1",
+	"wikiDataId": "596476c7811c3f826c4996e3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "East London",
+	"wikiData": "East London",
+	"bookurDataId": "57ed26b26d0e810b357b29c9",
+	"wikiDataId": "596476c7811c3f826c4996d0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Easter Island",
+	"wikiData": "Easter Island",
+	"bookurDataId": "57ed26b36d0e810b357b29cd",
+	"wikiDataId": "596476c5811c3f826c499654",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Edinburgh",
+	"wikiData": "Edinburgh",
+	"bookurDataId": "57ed26b36d0e810b357b29d5",
+	"wikiDataId": "596476c8811c3f826c499741",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Edmonton",
+	"wikiData": "Edmonton",
+	"bookurDataId": "57ed26b36d0e810b357b29d9",
+	"wikiDataId": "596476c8811c3f826c499753",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Eger",
+	"wikiData": "Eger",
+	"bookurDataId": "57ed26b36d0e810b357b29dd",
+	"wikiDataId": "596476c9811c3f826c499778",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Eindhoven",
+	"wikiData": "Eindhoven",
+	"bookurDataId": "57ed26b36d0e810b357b29e1",
+	"wikiDataId": "596476ca811c3f826c499791",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Entebbe",
+	"wikiData": "Entebbe",
+	"bookurDataId": "57ed26b36d0e810b357b29e5",
+	"wikiDataId": "596476cd811c3f826c4998a0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Etosha National Park",
+	"wikiData": "Etosha National Park",
+	"bookurDataId": "57ed26b36d0e810b357b29e9",
+	"wikiDataId": "596476cf811c3f826c49993c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fairbanks",
+	"wikiData": "Fairbanks",
+	"bookurDataId": "57ed26b36d0e810b357b29ed",
+	"wikiDataId": "596476d0811c3f826c4999b0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fajardo",
+	"wikiData": "Fajardo",
+	"bookurDataId": "57ed26b36d0e810b357b29f1",
+	"wikiDataId": "596476d1811c3f826c4999db",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fargo",
+	"wikiData": "Fargo",
+	"bookurDataId": "57ed26b36d0e810b357b29f5",
+	"wikiDataId": "596476d1811c3f826c499a10",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Faro",
+	"wikiData": "Faro",
+	"bookurDataId": "57ed26b36d0e810b357b29f9",
+	"wikiDataId": "596476d1811c3f826c499a2c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fez",
+	"wikiData": "Fez",
+	"bookurDataId": "57ed26b46d0e810b357b29fd",
+	"wikiDataId": "596476d3811c3f826c499a93",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fianarantsoa",
+	"wikiData": "Fianarantsoa",
+	"bookurDataId": "57ed26b46d0e810b357b2a01",
+	"wikiDataId": "5964788a811c3f826c4a1b01",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fish River Canyon",
+	"wikiData": "Fish River Canyon Park",
+	"bookurDataId": "57ed26b46d0e810b357b2a05",
+	"wikiDataId": "596476d5811c3f826c499adc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fiordland",
+	"wikiData": "Fiordland National Park",
+	"bookurDataId": "57ed26b46d0e810b357b2a09",
+	"wikiDataId": "596476d4811c3f826c499ac5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Florence",
+	"wikiData": "Florence",
+	"bookurDataId": "57ed26b46d0e810b357b2a0d",
+	"wikiDataId": "596476d6811c3f826c499b19",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Flores",
+	"wikiData": "Flores",
+	"bookurDataId": "57ed26b46d0e810b357b2a11",
+	"wikiDataId": "5965b90510456ad969223d21",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Florianopolis",
+	"wikiData": "Florianopolis",
+	"bookurDataId": "57ed26b46d0e810b357b2a15",
+	"wikiDataId": "596476d6811c3f826c499b29",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Florida Keys",
+	"wikiData": "Florida Keys",
+	"bookurDataId": "57ed26b46d0e810b357b2a19",
+	"wikiDataId": "596476d6811c3f826c499b31",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fort de France",
+	"wikiData": "Fort-de-France",
+	"bookurDataId": "57ed26b46d0e810b357b2a1d",
+	"wikiDataId": "596476d7811c3f826c499b90",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fort Lauderdale",
+	"wikiData": "Fort Lauderdale",
+	"bookurDataId": "57ed26b46d0e810b357b2a21",
+	"wikiDataId": "596476d7811c3f826c499b9c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fortaleza",
+	"wikiData": "Fortaleza",
+	"bookurDataId": "57ed26b46d0e810b357b2a25",
+	"wikiDataId": "596476d7811c3f826c499b89",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Frankfurt",
+	"wikiData": "Frankfurt",
+	"bookurDataId": "57ed26b46d0e810b357b2a29",
+	"wikiDataId": "596476d9811c3f826c499bf9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fraser Coast",
+	"wikiData": "Central Queensland",
+	"bookurDataId": "57ed26b56d0e810b357b2a2d",
+	"wikiDataId": "5964768a811c3f826c498759",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Freetown",
+	"wikiData": "Freetown",
+	"bookurDataId": "57ed26b56d0e810b357b2a31",
+	"wikiDataId": "596476da811c3f826c499c48",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "French Alps",
+	"wikiData": "French Alps",
+	"bookurDataId": "57ed26b56d0e810b357b2a35",
+	"wikiDataId": "596476da811c3f826c499c5f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fuerteventura",
+	"wikiData": "Fuerteventura",
+	"bookurDataId": "57ed26b56d0e810b357b2a39",
+	"wikiDataId": "596476db811c3f826c499cb0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Fukuoka",
+	"wikiData": "Fukuoka",
+	"bookurDataId": "57ed26b56d0e810b357b2a3d",
+	"wikiDataId": "596476db811c3f826c499cd0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Funchal",
+	"wikiData": "Funchal",
+	"bookurDataId": "57ed26b56d0e810b357b2a41",
+	"wikiDataId": "596476db811c3f826c499cea",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gaborone",
+	"wikiData": "Gaborone",
+	"bookurDataId": "57ed26b56d0e810b357b2a45",
+	"wikiDataId": "596476dc811c3f826c499d0e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Galapagos Islands",
+	"wikiData": "Galapagos Islands",
+	"bookurDataId": "57ed26b56d0e810b357b2a49",
+	"wikiDataId": "596476dc811c3f826c499d29",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Galilee",
+	"wikiData": "Galilee",
+	"bookurDataId": "57ed26b56d0e810b357b2a4d",
+	"wikiDataId": "5965b93110456ad969224047",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Galveston",
+	"wikiData": "Galveston",
+	"bookurDataId": "57ed26b66d0e810b357b2a51",
+	"wikiDataId": "596476dc811c3f826c499d49",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Galway",
+	"wikiData": "Galway",
+	"bookurDataId": "57ed26b66d0e810b357b2a55",
+	"wikiDataId": "596476dd811c3f826c499d4d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Garden Route",
+	"wikiData": "Garden Route",
+	"bookurDataId": "57ed26b66d0e810b357b2a59",
+	"wikiDataId": "596476dd811c3f826c499d8f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gdansk",
+	"wikiData": "Gdańsk",
+	"bookurDataId": "57ed26b66d0e810b357b2a5d",
+	"wikiDataId": "596476df811c3f826c499df9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Geneva",
+	"wikiData": "Geneva",
+	"bookurDataId": "57ed26b66d0e810b357b2a61",
+	"wikiDataId": "596476df811c3f826c499e1e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Genoa",
+	"wikiData": "Genoa",
+	"bookurDataId": "57ed26b66d0e810b357b2a65",
+	"wikiDataId": "596476df811c3f826c499e28",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ghent",
+	"wikiData": "Ghent",
+	"bookurDataId": "57ed26b66d0e810b357b2a69",
+	"wikiDataId": "596476e1811c3f826c499e7b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Glasgow",
+	"wikiData": "Glasgow",
+	"bookurDataId": "57ed26b66d0e810b357b2a6d",
+	"wikiDataId": "596476e3811c3f826c499ee7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Goa",
+	"wikiData": "Goa",
+	"bookurDataId": "57ed26b66d0e810b357b2a71",
+	"wikiDataId": "596476e4811c3f826c499f29",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gold Coast",
+	"wikiData": "Gold Coast",
+	"bookurDataId": "57ed26b66d0e810b357b2a75",
+	"wikiDataId": "596476e4811c3f826c499f4d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gold Coast, Queensland",
+	"wikiData": "Gold Coast, Queensland",
+	"bookurDataId": "57ed26b66d0e810b357b2a79",
+	"wikiDataId": "5965bedb10456ad96922bb6c",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Gothenburg",
+	"wikiData": "Gothenburg",
+	"bookurDataId": "57ed26b76d0e810b357b2a7d",
+	"wikiDataId": "596476e6811c3f826c499fd6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gozo",
+	"wikiData": "Gozo",
+	"bookurDataId": "57ed26b76d0e810b357b2a81",
+	"wikiDataId": "596476e6811c3f826c499ff6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gran Canaria",
+	"wikiData": "Gran Canaria",
+	"bookurDataId": "57ed26b76d0e810b357b2a85",
+	"wikiDataId": "596476e7811c3f826c49a020",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Grand Cayman",
+	"wikiData": "Grand Cayman",
+	"bookurDataId": "57ed26b76d0e810b357b2a89",
+	"wikiDataId": "596476e7811c3f826c49a031",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Grand Turk",
+	"wikiData": "Grand Turk",
+	"bookurDataId": "57ed26b76d0e810b357b2a91",
+	"wikiDataId": "596476e7811c3f826c49a05d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Groningen",
+	"wikiData": "Groningen",
+	"bookurDataId": "57ed26b76d0e810b357b2a99",
+	"wikiDataId": "596476ea811c3f826c49a140",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Guadalajara",
+	"wikiData": "Guadalajara",
+	"bookurDataId": "57ed26b76d0e810b357b2a9d",
+	"wikiDataId": "596476ea811c3f826c49a16e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Guadalcanal Island",
+	"wikiData": "Guadalcanal",
+	"bookurDataId": "57ed26b76d0e810b357b2aa1",
+	"wikiDataId": "5965c32510456ad969234fee",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Guangzhou",
+	"wikiData": "Guangzhou",
+	"bookurDataId": "57ed26b76d0e810b357b2aa5",
+	"wikiDataId": "596476eb811c3f826c49a18f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Guatemala City",
+	"wikiData": "Guatemala City",
+	"bookurDataId": "57ed26b76d0e810b357b2aa9",
+	"wikiDataId": "596476ec811c3f826c49a1aa",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Guernsey",
+	"wikiData": "Guernsey",
+	"bookurDataId": "57ed26b86d0e810b357b2aad",
+	"wikiDataId": "596476ec811c3f826c49a1c3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Guilin",
+	"wikiData": "Guilin",
+	"bookurDataId": "57ed26b86d0e810b357b2ab1",
+	"wikiDataId": "596476ec811c3f826c49a1cc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gulf Coast",
+	"wikiData": "Gulf Coast of the United States",
+	"bookurDataId": "57ed26b86d0e810b357b2ab5",
+	"wikiDataId": "5965b91810456ad969223e7c",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Gulfport",
+	"wikiData": "Gulfport",
+	"bookurDataId": "57ed26b86d0e810b357b2ab9",
+	"wikiDataId": "596476ed811c3f826c49a1f7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Gyeongju",
+	"wikiData": "Gyeongju",
+	"bookurDataId": "57ed26b86d0e810b357b2abd",
+	"wikiDataId": "596476ee811c3f826c49a252",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Haifa",
+	"wikiData": "Haifa",
+	"bookurDataId": "57ed26b86d0e810b357b2ac1",
+	"wikiDataId": "596476ef811c3f826c49a298",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Halifax",
+	"wikiData": "Halifax",
+	"bookurDataId": "57ed26b86d0e810b357b2ac5",
+	"wikiDataId": "596476ef811c3f826c49a2cc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hamburg",
+	"wikiData": "Hamburg",
+	"bookurDataId": "57ed26b86d0e810b357b2ac9",
+	"wikiDataId": "596476f0811c3f826c49a2f2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hangzhou",
+	"wikiData": "Hangzhou",
+	"bookurDataId": "57ed26b86d0e810b357b2ad1",
+	"wikiDataId": "596476f1811c3f826c49a331",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hannover",
+	"wikiData": "Hanover",
+	"bookurDataId": "57ed26b86d0e810b357b2ad5",
+	"wikiDataId": "596476f1811c3f826c49a33d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hanoi",
+	"wikiData": "Hanoi",
+	"bookurDataId": "57ed26b86d0e810b357b2ad9",
+	"wikiDataId": "596476f1811c3f826c49a33c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Harare",
+	"wikiData": "Harare",
+	"bookurDataId": "57ed26b96d0e810b357b2add",
+	"wikiDataId": "596476f1811c3f826c49a358",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Harpers Ferry",
+	"wikiData": "Harpers Ferry",
+	"bookurDataId": "57ed26b96d0e810b357b2ae1",
+	"wikiDataId": "596476f2811c3f826c49a382",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hartford",
+	"wikiData": "Hartford",
+	"bookurDataId": "57ed26b96d0e810b357b2ae5",
+	"wikiDataId": "596476f2811c3f826c49a3a0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Havana",
+	"wikiData": "Havana",
+	"bookurDataId": "57ed26b96d0e810b357b2ae9",
+	"wikiDataId": "596476f3811c3f826c49a406",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Helsinki",
+	"wikiData": "Helsinki",
+	"bookurDataId": "57ed26b96d0e810b357b2aed",
+	"wikiDataId": "596476f5811c3f826c49a4bb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Himalayas",
+	"wikiData": "Himalayas",
+	"bookurDataId": "57ed26b96d0e810b357b2af5",
+	"wikiDataId": "596476f7811c3f826c49a57b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hiroshima",
+	"wikiData": "Hiroshima",
+	"bookurDataId": "57ed26b96d0e810b357b2af9",
+	"wikiDataId": "596476f8811c3f826c49a596",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ho Chi Minh City",
+	"wikiData": "Ho Chi Minh City",
+	"bookurDataId": "57ed26b96d0e810b357b2afd",
+	"wikiDataId": "596476f9811c3f826c49a5c8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hobart",
+	"wikiData": "Hobart",
+	"bookurDataId": "57ed26b96d0e810b357b2b01",
+	"wikiDataId": "596476f8811c3f826c49a5bd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hoi An",
+	"wikiData": "Hoi An",
+	"bookurDataId": "57ed26b96d0e810b357b2b05",
+	"wikiDataId": "596476f9811c3f826c49a5df",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hong Kong City",
+	"wikiData": "Hong Kong",
+	"bookurDataId": "57ed26ba6d0e810b357b2b09",
+	"wikiDataId": "5965b94b10456ad96922423d",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Honolulu",
+	"wikiData": "Honolulu",
+	"bookurDataId": "57ed26ba6d0e810b357b2b0d",
+	"wikiDataId": "596476fb811c3f826c49a660",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Houston",
+	"wikiData": "Houston",
+	"bookurDataId": "57ed26ba6d0e810b357b2b11",
+	"wikiDataId": "596476fc811c3f826c49a6ca",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hue",
+	"wikiData": "Hue",
+	"bookurDataId": "57ed26ba6d0e810b357b2b1d",
+	"wikiDataId": "596476fe811c3f826c49a737",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Hyderabad",
+	"wikiData": "Hyderabad",
+	"bookurDataId": "57ed26ba6d0e810b357b2b21",
+	"wikiDataId": "59647700811c3f826c49a7b1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ibiza",
+	"wikiData": "Ibiza",
+	"bookurDataId": "57ed26ba6d0e810b357b2b25",
+	"wikiDataId": "59647700811c3f826c49a7d5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Indianapolis",
+	"wikiData": "Indianapolis",
+	"bookurDataId": "57ed26ba6d0e810b357b2b29",
+	"wikiDataId": "59647703811c3f826c49a88d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Inhambane",
+	"wikiData": "Inhambane",
+	"bookurDataId": "57ed26ba6d0e810b357b2b2d",
+	"wikiDataId": "59647705811c3f826c49a8b8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Innsbruck",
+	"wikiData": "Innsbruck",
+	"bookurDataId": "57ed26ba6d0e810b357b2b31",
+	"wikiDataId": "59647705811c3f826c49a8d6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Inverness",
+	"wikiData": "Inverness",
+	"bookurDataId": "57ed26bb6d0e810b357b2b35",
+	"wikiDataId": "59647706811c3f826c49a8f9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Iowa City",
+	"wikiData": "Iowa City",
+	"bookurDataId": "57ed26bb6d0e810b357b2b39",
+	"wikiDataId": "59647706811c3f826c49a901",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Isaan",
+	"wikiData": "Isaan",
+	"bookurDataId": "57ed26bb6d0e810b357b2b3d",
+	"wikiDataId": "59647708811c3f826c49a934",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Isla Grande de Chiloe",
+	"wikiData": "Chiloé Island",
+	"bookurDataId": "57ed26bb6d0e810b357b2b41",
+	"wikiDataId": "5965d11010456ad969251478",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Isla Margarita",
+	"wikiData": "Margarita Island",
+	"bookurDataId": "57ed26bb6d0e810b357b2b45",
+	"wikiDataId": "59647754811c3f826c49bc97",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Islamabad",
+	"wikiData": "Islamabad",
+	"bookurDataId": "57ed26bb6d0e810b357b2b49",
+	"wikiDataId": "59647709811c3f826c49a961",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Islands",
+	"wikiData": "Islands",
+	"bookurDataId": "57ed26bb6d0e810b357b2b4d",
+	"wikiDataId": "59647709811c3f826c49a96c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Islay",
+	"wikiData": "Islay",
+	"bookurDataId": "57ed26bb6d0e810b357b2b51",
+	"wikiDataId": "59647709811c3f826c49a989",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Isle of Arran",
+	"wikiData": "Isle of Arran",
+	"bookurDataId": "57ed26bb6d0e810b357b2b55",
+	"wikiDataId": "59647709811c3f826c49a98a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Isle of Mull",
+	"wikiData": "Mull",
+	"bookurDataId": "57ed26bb6d0e810b357b2b59",
+	"wikiDataId": "5965d7b310456ad969260a80",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Isle of Wight",
+	"wikiData": "Isle of Wight",
+	"bookurDataId": "57ed26bb6d0e810b357b2b5d",
+	"wikiDataId": "5964770a811c3f826c49a993",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Istanbul",
+	"wikiData": "Istanbul",
+	"bookurDataId": "57ed26bb6d0e810b357b2b61",
+	"wikiDataId": "5964770b811c3f826c49a9b1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Italian Alps",
+	"wikiData": "Alps",
+	"bookurDataId": "57ed26bb6d0e810b357b2b65",
+	"wikiDataId": "5965b78a10456ad96922229c",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Jacksonville",
+	"wikiData": "Jacksonville",
+	"bookurDataId": "57ed26bc6d0e810b357b2b71",
+	"wikiDataId": "5964770d811c3f826c49aa40",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Jaipur",
+	"wikiData": "Jaipur",
+	"bookurDataId": "57ed26bc6d0e810b357b2b75",
+	"wikiDataId": "5964770e811c3f826c49aa53",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Jakarta",
+	"wikiData": "Jakarta",
+	"bookurDataId": "57ed26bc6d0e810b357b2b79",
+	"wikiDataId": "5964770e811c3f826c49aa5b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Java",
+	"wikiData": "Java",
+	"bookurDataId": "57ed26bc6d0e810b357b2b7d",
+	"wikiDataId": "59647711811c3f826c49aac4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Jeddah",
+	"wikiData": "Jeddah",
+	"bookurDataId": "57ed26bc6d0e810b357b2b81",
+	"wikiDataId": "59647711811c3f826c49aad6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Jersey",
+	"wikiData": "Jersey",
+	"bookurDataId": "57ed26bc6d0e810b357b2b85",
+	"wikiDataId": "59647712811c3f826c49ab14",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Jerusalem",
+	"wikiData": "Jerusalem",
+	"bookurDataId": "57ed26bc6d0e810b357b2b89",
+	"wikiDataId": "59647712811c3f826c49ab17",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Johannesburg",
+	"wikiData": "Johannesburg",
+	"bookurDataId": "57ed26bc6d0e810b357b2b8d",
+	"wikiDataId": "59647714811c3f826c49ab95",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Juneau",
+	"wikiData": "Juneau",
+	"bookurDataId": "57ed26bc6d0e810b357b2b91",
+	"wikiDataId": "59647715811c3f826c49abfd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kalamata",
+	"wikiData": "Kalamata",
+	"bookurDataId": "57ed26bd6d0e810b357b2b95",
+	"wikiDataId": "59647717811c3f826c49ac75",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kaliningrad Oblast",
+	"wikiData": "Kaliningrad Oblast",
+	"bookurDataId": "57ed26bd6d0e810b357b2b99",
+	"wikiDataId": "59647717811c3f826c49ac8f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kampala",
+	"wikiData": "Kampala",
+	"bookurDataId": "57ed26bd6d0e810b357b2b9d",
+	"wikiDataId": "59647718811c3f826c49accb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kansas City",
+	"wikiData": "Kansas City",
+	"bookurDataId": "57ed26bd6d0e810b357b2ba1",
+	"wikiDataId": "5964771a811c3f826c49ad1a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Karachi",
+	"wikiData": "Karachi",
+	"bookurDataId": "57ed26bd6d0e810b357b2ba5",
+	"wikiDataId": "5964771a811c3f826c49ad52",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kariba",
+	"wikiData": "Kariba",
+	"bookurDataId": "57ed26bd6d0e810b357b2ba9",
+	"wikiDataId": "5964771b811c3f826c49ad77",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kathmandu",
+	"wikiData": "Kathmandu",
+	"bookurDataId": "57ed26bd6d0e810b357b2bad",
+	"wikiDataId": "5964771c811c3f826c49add6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kauai",
+	"wikiData": "Kauai",
+	"bookurDataId": "57ed26bd6d0e810b357b2bb1",
+	"wikiDataId": "5964771c811c3f826c49ade3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kerala",
+	"wikiData": "Kerala",
+	"bookurDataId": "57ed26bd6d0e810b357b2bb5",
+	"wikiDataId": "5964771f811c3f826c49aeb0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ketchikan",
+	"wikiData": "Ketchikan",
+	"bookurDataId": "57ed26bd6d0e810b357b2bb9",
+	"wikiDataId": "59647720811c3f826c49aed7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Khartoum",
+	"wikiData": "Khartoum",
+	"bookurDataId": "57ed26bd6d0e810b357b2bbd",
+	"wikiDataId": "59647721811c3f826c49af10",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kiev",
+	"wikiData": "Kiev",
+	"bookurDataId": "57ed26bd6d0e810b357b2bc1",
+	"wikiDataId": "59647722811c3f826c49af61",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kigali",
+	"wikiData": "Kigali",
+	"bookurDataId": "57ed26bd6d0e810b357b2bc5",
+	"wikiDataId": "59647722811c3f826c49af65",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Killarney",
+	"wikiData": "Killarney",
+	"bookurDataId": "57ed26be6d0e810b357b2bc9",
+	"wikiDataId": "59647723811c3f826c49af83",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kiruna",
+	"wikiData": "Kiruna",
+	"bookurDataId": "57ed26be6d0e810b357b2bd5",
+	"wikiDataId": "59647724811c3f826c49b00e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kochi",
+	"wikiData": "Kochi",
+	"bookurDataId": "57ed26be6d0e810b357b2bd9",
+	"wikiDataId": "59647726811c3f826c49b087",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kolkata",
+	"wikiData": "Kolkata",
+	"bookurDataId": "57ed26be6d0e810b357b2bdd",
+	"wikiDataId": "59647727811c3f826c49b0f1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kos",
+	"wikiData": "Kos",
+	"bookurDataId": "57ed26be6d0e810b357b2be1",
+	"wikiDataId": "59647729811c3f826c49b177",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kotor",
+	"wikiData": "Kotor",
+	"bookurDataId": "57ed26be6d0e810b357b2be5",
+	"wikiDataId": "5964772a811c3f826c49b1a2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Krakow",
+	"wikiData": "Kraków",
+	"bookurDataId": "57ed26be6d0e810b357b2be9",
+	"wikiDataId": "5964772b811c3f826c49b1cb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kruger National Park",
+	"wikiData": "Kruger National Park",
+	"bookurDataId": "57ed26be6d0e810b357b2bed",
+	"wikiDataId": "5964772c811c3f826c49b212",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kuala Lumpur",
+	"wikiData": "Kuala Lumpur",
+	"bookurDataId": "57ed26be6d0e810b357b2bf1",
+	"wikiDataId": "5964772c811c3f826c49b240",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kunming",
+	"wikiData": "Kunming",
+	"bookurDataId": "57ed26be6d0e810b357b2bf5",
+	"wikiDataId": "5964772e811c3f826c49b2a6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Kyoto",
+	"wikiData": "Kyoto",
+	"bookurDataId": "57ed26bf6d0e810b357b2bf9",
+	"wikiDataId": "5964772f811c3f826c49b30e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "La Coruna",
+	"wikiData": "A Coruña",
+	"bookurDataId": "57ed26bf6d0e810b357b2bfd",
+	"wikiDataId": "59647638811c3f826c497455",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "La Digue",
+	"wikiData": "La Digue",
+	"bookurDataId": "57ed26bf6d0e810b357b2c01",
+	"wikiDataId": "59647730811c3f826c49b364",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "La Paz",
+	"wikiData": "La Paz",
+	"bookurDataId": "57ed26bf6d0e810b357b2c05",
+	"wikiDataId": "59647735811c3f826c49b4c9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "La Romana",
+	"wikiData": "La Romana",
+	"bookurDataId": "57ed26bf6d0e810b357b2c09",
+	"wikiDataId": "59647735811c3f826c49b505",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ladakh",
+	"wikiData": "Ladakh",
+	"bookurDataId": "57ed26bf6d0e810b357b2c0d",
+	"wikiDataId": "59647730811c3f826c49b35f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lagos",
+	"wikiData": "Lagos",
+	"bookurDataId": "57ed26bf6d0e810b357b2c11",
+	"wikiDataId": "59647731811c3f826c49b38b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lahore",
+	"wikiData": "Lahore",
+	"bookurDataId": "57ed26bf6d0e810b357b2c15",
+	"wikiDataId": "59647731811c3f826c49b3a8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lake Atitlan",
+	"wikiData": "Lake Atitlán",
+	"bookurDataId": "57ed26bf6d0e810b357b2c19",
+	"wikiDataId": "59647731811c3f826c49b3ba",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lake Balaton",
+	"wikiData": "Lake Balaton",
+	"bookurDataId": "57ed26bf6d0e810b357b2c1d",
+	"wikiDataId": "59647731811c3f826c49b3bc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lake Country",
+	"wikiData": "Lake Country",
+	"bookurDataId": "57ed26bf6d0e810b357b2c21",
+	"wikiDataId": "59647732811c3f826c49b3d3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lake District",
+	"wikiData": "Lake District",
+	"bookurDataId": "57ed26bf6d0e810b357b2c25",
+	"wikiDataId": "5965c58e10456ad96923bd1e",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Lake Erie Islands",
+	"wikiData": "Lake Erie Islands",
+	"bookurDataId": "57ed26c06d0e810b357b2c29",
+	"wikiDataId": "59647732811c3f826c49b3e4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lake Malawi",
+	"wikiData": "Lake Malawi",
+	"bookurDataId": "57ed26c06d0e810b357b2c2d",
+	"wikiDataId": "5965bf2010456ad96922c36f",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Lake Titicaca",
+	"wikiData": "Lake Titicaca",
+	"bookurDataId": "57ed26c06d0e810b357b2c35",
+	"wikiDataId": "59647732811c3f826c49b422",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lanai",
+	"wikiData": "Lanai",
+	"bookurDataId": "57ed26c06d0e810b357b2c3d",
+	"wikiDataId": "59647733811c3f826c49b467",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lanzarote",
+	"wikiData": "Lanzarote",
+	"bookurDataId": "57ed26c06d0e810b357b2c41",
+	"wikiDataId": "59647734811c3f826c49b4b9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Larnaca",
+	"wikiData": "Larnaca",
+	"bookurDataId": "57ed26c06d0e810b357b2c45",
+	"wikiDataId": "59647735811c3f826c49b4ff",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Las Palmas",
+	"wikiData": "Las Palmas",
+	"bookurDataId": "57ed26c06d0e810b357b2c49",
+	"wikiDataId": "59647735811c3f826c49b513",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Las Vegas",
+	"wikiData": "Las Vegas",
+	"bookurDataId": "57ed26c06d0e810b357b2c4d",
+	"wikiDataId": "59647736811c3f826c49b51b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Leeds",
+	"wikiData": "Leeds",
+	"bookurDataId": "57ed26c06d0e810b357b2c51",
+	"wikiDataId": "59647738811c3f826c49b5ad",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lesvos",
+	"wikiData": "Lesvos",
+	"bookurDataId": "57ed26c06d0e810b357b2c55",
+	"wikiDataId": "5964773a811c3f826c49b641",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lille",
+	"wikiData": "Lille",
+	"bookurDataId": "57ed26c16d0e810b357b2c59",
+	"wikiDataId": "5964773c811c3f826c49b6c7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lilongwe",
+	"wikiData": "Lilongwe",
+	"bookurDataId": "57ed26c16d0e810b357b2c5d",
+	"wikiDataId": "5964773c811c3f826c49b6cb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lima",
+	"wikiData": "Lima",
+	"bookurDataId": "57ed26c16d0e810b357b2c61",
+	"wikiDataId": "5964773c811c3f826c49b6cc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Limassol",
+	"wikiData": "Limassol",
+	"bookurDataId": "57ed26c16d0e810b357b2c65",
+	"wikiDataId": "5964773c811c3f826c49b6db",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Limerick",
+	"wikiData": "Limerick",
+	"bookurDataId": "57ed26c16d0e810b357b2c69",
+	"wikiDataId": "5964773c811c3f826c49b6e6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lisbon",
+	"wikiData": "Lisbon",
+	"bookurDataId": "57ed26c16d0e810b357b2c6d",
+	"wikiDataId": "5964773d811c3f826c49b72f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Little Cayman",
+	"wikiData": "Little Cayman",
+	"bookurDataId": "57ed26c16d0e810b357b2c71",
+	"wikiDataId": "5964773e811c3f826c49b774",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Little Rock",
+	"wikiData": "Little Rock",
+	"bookurDataId": "57ed26c16d0e810b357b2c75",
+	"wikiDataId": "5964773e811c3f826c49b785",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Liverpool",
+	"wikiData": "Liverpool",
+	"bookurDataId": "57ed26c16d0e810b357b2c79",
+	"wikiDataId": "5964773e811c3f826c49b78f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ljubljana",
+	"wikiData": "Ljubljana",
+	"bookurDataId": "57ed26c16d0e810b357b2c7d",
+	"wikiDataId": "5964773f811c3f826c49b7a6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Llandudno",
+	"wikiData": "Llandudno",
+	"bookurDataId": "57ed26c16d0e810b357b2c81",
+	"wikiDataId": "5964773f811c3f826c49b7ae",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Loire Valley",
+	"wikiData": "Loire Valley",
+	"bookurDataId": "57ed26c26d0e810b357b2c85",
+	"wikiDataId": "5964773f811c3f826c49b7fb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lombok",
+	"wikiData": "Lombok",
+	"bookurDataId": "57ed26c26d0e810b357b2c89",
+	"wikiDataId": "59647740811c3f826c49b80b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "London",
+	"wikiData": "London",
+	"bookurDataId": "57ed26c26d0e810b357b2c8d",
+	"wikiDataId": "59647741811c3f826c49b814",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Long Island",
+	"wikiData": "Long Island",
+	"bookurDataId": "57ed26c26d0e810b357b2c91",
+	"wikiDataId": "59647743811c3f826c49b8a8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Los Angeles",
+	"wikiData": "Los Angeles",
+	"bookurDataId": "57ed26c26d0e810b357b2c95",
+	"wikiDataId": "59647743811c3f826c49b8eb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Louisville",
+	"wikiData": "Louisville",
+	"bookurDataId": "57ed26c26d0e810b357b2c99",
+	"wikiDataId": "59647744811c3f826c49b926",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Luanda",
+	"wikiData": "Luanda",
+	"bookurDataId": "57ed26c26d0e810b357b2c9d",
+	"wikiDataId": "59647745811c3f826c49b965",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Luang Prabang",
+	"wikiData": "Luang Prabang",
+	"bookurDataId": "57ed26c26d0e810b357b2ca1",
+	"wikiDataId": "59647745811c3f826c49b96b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lusaka",
+	"wikiData": "Lusaka",
+	"bookurDataId": "57ed26c26d0e810b357b2ca5",
+	"wikiDataId": "59647746811c3f826c49b9d3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Luxembourg-Ville",
+	"wikiData": "Luxembourg City",
+	"bookurDataId": "57ed26c26d0e810b357b2ca9",
+	"wikiDataId": "5965bea010456ad96922b512",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Luxor",
+	"wikiData": "Luxor",
+	"bookurDataId": "57ed26c36d0e810b357b2cad",
+	"wikiDataId": "59647747811c3f826c49b9e4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Luzern",
+	"wikiData": "Lucerne",
+	"bookurDataId": "57ed26c36d0e810b357b2cb1",
+	"wikiDataId": "59647745811c3f826c49b987",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lyon",
+	"wikiData": "Lyon",
+	"bookurDataId": "57ed26c36d0e810b357b2cb5",
+	"wikiDataId": "59647748811c3f826c49ba07",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mackay",
+	"wikiData": "Mackay",
+	"bookurDataId": "57ed26c36d0e810b357b2cb9",
+	"wikiDataId": "59647749811c3f826c49ba43",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mackinaw City",
+	"wikiData": "Mackinaw City",
+	"bookurDataId": "57ed26c36d0e810b357b2cbd",
+	"wikiDataId": "59647749811c3f826c49ba4a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Madeira",
+	"wikiData": "Madeira",
+	"bookurDataId": "57ed26c36d0e810b357b2cc1",
+	"wikiDataId": "59647749811c3f826c49ba64",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Madison",
+	"wikiData": "Madison",
+	"bookurDataId": "57ed26c36d0e810b357b2cc5",
+	"wikiDataId": "5964774a811c3f826c49ba79",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Madrid",
+	"wikiData": "Madrid",
+	"bookurDataId": "57ed26c36d0e810b357b2cc9",
+	"wikiDataId": "5964774a811c3f826c49ba87",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mahe",
+	"wikiData": "Mahé",
+	"bookurDataId": "57ed26c36d0e810b357b2ccd",
+	"wikiDataId": "5964774b811c3f826c49badd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Malaga",
+	"wikiData": "Málaga",
+	"bookurDataId": "57ed26c36d0e810b357b2cd5",
+	"wikiDataId": "5964774c811c3f826c49bb27",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Male",
+	"wikiData": "Malé",
+	"bookurDataId": "57ed26c36d0e810b357b2cd9",
+	"wikiDataId": "5964774e811c3f826c49bb4d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mallorca",
+	"wikiData": "Mallorca",
+	"bookurDataId": "57ed26c46d0e810b357b2cdd",
+	"wikiDataId": "5964774e811c3f826c49bb62",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Malmo",
+	"wikiData": "Malmö",
+	"bookurDataId": "57ed26c46d0e810b357b2ce1",
+	"wikiDataId": "5964774e811c3f826c49bb64",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Managua",
+	"wikiData": "Managua",
+	"bookurDataId": "57ed26c46d0e810b357b2ce5",
+	"wikiDataId": "5964774f811c3f826c49bb8b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Manama",
+	"wikiData": "Manama",
+	"bookurDataId": "57ed26c46d0e810b357b2ce9",
+	"wikiDataId": "5964774f811c3f826c49bb8f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Manchester",
+	"wikiData": "Manchester",
+	"bookurDataId": "57ed26c46d0e810b357b2ced",
+	"wikiDataId": "5964774f811c3f826c49bba0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Manila",
+	"wikiData": "Manila",
+	"bookurDataId": "57ed26c46d0e810b357b2cf5",
+	"wikiDataId": "59647751811c3f826c49bc0a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Maputo",
+	"wikiData": "Maputo",
+	"bookurDataId": "57ed26c46d0e810b357b2cf9",
+	"wikiDataId": "59647752811c3f826c49bc63",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Marigot",
+	"wikiData": "Marigot",
+	"bookurDataId": "57ed26c46d0e810b357b2cfd",
+	"wikiDataId": "59647754811c3f826c49bcb0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Marrakech",
+	"wikiData": "Marrakech",
+	"bookurDataId": "57ed26c46d0e810b357b2d01",
+	"wikiDataId": "59647755811c3f826c49bcff",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Marseille",
+	"wikiData": "Marseille",
+	"bookurDataId": "57ed26c46d0e810b357b2d05",
+	"wikiDataId": "59647755811c3f826c49bd08",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Maseru",
+	"wikiData": "Maseru",
+	"bookurDataId": "57ed26c56d0e810b357b2d09",
+	"wikiDataId": "59647756811c3f826c49bd48",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Matara",
+	"wikiData": "Matara",
+	"bookurDataId": "57ed26c56d0e810b357b2d0d",
+	"wikiDataId": "59647756811c3f826c49bd7d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Maui",
+	"wikiData": "Maui",
+	"bookurDataId": "57ed26c56d0e810b357b2d11",
+	"wikiDataId": "59647757811c3f826c49bda2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Melbourne",
+	"wikiData": "Melbourne",
+	"bookurDataId": "57ed26c56d0e810b357b2d19",
+	"wikiDataId": "5964775a811c3f826c49be80",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Memphis",
+	"wikiData": "Memphis",
+	"bookurDataId": "57ed26c56d0e810b357b2d1d",
+	"wikiDataId": "5964775b811c3f826c49beae",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mexico City",
+	"wikiData": "Mexico City",
+	"bookurDataId": "57ed26c56d0e810b357b2d21",
+	"wikiDataId": "5964775d811c3f826c49bf45",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Miami",
+	"wikiData": "Miami",
+	"bookurDataId": "57ed26c56d0e810b357b2d25",
+	"wikiDataId": "5964775d811c3f826c49bf5f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Milan",
+	"wikiData": "Milan",
+	"bookurDataId": "57ed26c56d0e810b357b2d29",
+	"wikiDataId": "5964775f811c3f826c49c000",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Milwaukee",
+	"wikiData": "Milwaukee",
+	"bookurDataId": "57ed26c56d0e810b357b2d2d",
+	"wikiDataId": "59647760811c3f826c49c037",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Minneapolis-St Paul",
+	"wikiData": "Minneapolis–Saint Paul",
+	"bookurDataId": "57ed26c66d0e810b357b2d31",
+	"wikiDataId": "5965c22e10456ad969232c4e",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Minorca",
+	"wikiData": "Minorca",
+	"bookurDataId": "57ed26c66d0e810b357b2d35",
+	"wikiDataId": "59647761811c3f826c49c080",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Minsk",
+	"wikiData": "Minsk",
+	"bookurDataId": "57ed26c66d0e810b357b2d39",
+	"wikiDataId": "59647761811c3f826c49c082",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mobile",
+	"wikiData": "Mobile",
+	"bookurDataId": "57ed26c66d0e810b357b2d3d",
+	"wikiDataId": "59647762811c3f826c49c0f4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Molokai",
+	"wikiData": "Molokai",
+	"bookurDataId": "57ed26c66d0e810b357b2d41",
+	"wikiDataId": "59647763811c3f826c49c126",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Monrovia",
+	"wikiData": "Monrovia",
+	"bookurDataId": "57ed26c66d0e810b357b2d45",
+	"wikiDataId": "59647764811c3f826c49c165",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Monte-Carlo",
+	"wikiData": "Monte Carlo",
+	"bookurDataId": "57ed26c66d0e810b357b2d49",
+	"wikiDataId": "5965c52310456ad96923aa42",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Montego Bay",
+	"wikiData": "Montego Bay",
+	"bookurDataId": "57ed26c66d0e810b357b2d4d",
+	"wikiDataId": "59647765811c3f826c49c18a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Montevideo",
+	"wikiData": "Montevideo",
+	"bookurDataId": "57ed26c66d0e810b357b2d51",
+	"wikiDataId": "59647765811c3f826c49c1ad",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Montgomery",
+	"wikiData": "Montgomery",
+	"bookurDataId": "57ed26c66d0e810b357b2d55",
+	"wikiDataId": "59647765811c3f826c49c1b1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Montgomery County",
+	"wikiData": "Montgomery County",
+	"bookurDataId": "57ed26c66d0e810b357b2d59",
+	"wikiDataId": "5965bd4010456ad96922926b",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Montpelier",
+	"wikiData": "Montpelier",
+	"bookurDataId": "57ed26c76d0e810b357b2d5d",
+	"wikiDataId": "59647766811c3f826c49c1c9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Montreal",
+	"wikiData": "Montreal",
+	"bookurDataId": "57ed26c76d0e810b357b2d61",
+	"wikiDataId": "59647766811c3f826c49c1ce",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Moorea",
+	"wikiData": "Moorea",
+	"bookurDataId": "57ed26c76d0e810b357b2d65",
+	"wikiDataId": "59647767811c3f826c49c21a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Moscow",
+	"wikiData": "Moscow",
+	"bookurDataId": "57ed26c76d0e810b357b2d69",
+	"wikiDataId": "59647768811c3f826c49c288",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mount Desert Island",
+	"wikiData": "Mount Desert Island",
+	"bookurDataId": "57ed26c76d0e810b357b2d6d",
+	"wikiDataId": "59647769811c3f826c49c2e2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mountains",
+	"wikiData": "Mountain",
+	"bookurDataId": "57ed26c76d0e810b357b2d71",
+	"wikiDataId": "5965bcb010456ad96922822f",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Mpumalanga",
+	"wikiData": "Mpumalanga",
+	"bookurDataId": "57ed26c76d0e810b357b2d75",
+	"wikiDataId": "5964776b811c3f826c49c35c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mumbai",
+	"wikiData": "Mumbai",
+	"bookurDataId": "57ed26c76d0e810b357b2d79",
+	"wikiDataId": "5964776d811c3f826c49c3d7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Munich",
+	"wikiData": "Munich",
+	"bookurDataId": "57ed26c76d0e810b357b2d7d",
+	"wikiDataId": "5964776d811c3f826c49c3ed",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Muscat",
+	"wikiData": "Muscat",
+	"bookurDataId": "57ed26c76d0e810b357b2d81",
+	"wikiDataId": "5964776e811c3f826c49c43c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Mykonos",
+	"wikiData": "Mykonos",
+	"bookurDataId": "57ed26c76d0e810b357b2d85",
+	"wikiDataId": "5964776f811c3f826c49c470",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Nairobi",
+	"wikiData": "Nairobi",
+	"bookurDataId": "57ed26c86d0e810b357b2d89",
+	"wikiDataId": "59647772811c3f826c49c4db",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Naples",
+	"wikiData": "Naples",
+	"bookurDataId": "57ed26c86d0e810b357b2d8d",
+	"wikiDataId": "59647775811c3f826c49c55c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Nashville",
+	"wikiData": "Nashville",
+	"bookurDataId": "57ed26c86d0e810b357b2d91",
+	"wikiDataId": "59647775811c3f826c49c592",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Nassau",
+	"wikiData": "Nassau",
+	"bookurDataId": "57ed26c86d0e810b357b2d95",
+	"wikiDataId": "59647775811c3f826c49c597",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Natchez",
+	"wikiData": "Natchez",
+	"bookurDataId": "57ed26c86d0e810b357b2d99",
+	"wikiDataId": "59647775811c3f826c49c5a4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Negril",
+	"wikiData": "Negril",
+	"bookurDataId": "57ed26c86d0e810b357b2da1",
+	"wikiDataId": "59647777811c3f826c49c60e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Nevis",
+	"wikiData": "Nevis",
+	"bookurDataId": "57ed26c86d0e810b357b2da5",
+	"wikiDataId": "59647779811c3f826c49c666",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "New Haven",
+	"wikiData": "New Haven",
+	"bookurDataId": "57ed26c86d0e810b357b2da9",
+	"wikiDataId": "5964777b811c3f826c49c6bf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "New Jersey Shore",
+	"wikiData": "Jersey Shore",
+	"bookurDataId": "57ed26c86d0e810b357b2dad",
+	"wikiDataId": "5965d99410456ad96926551f",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "New Orleans",
+	"wikiData": "New Orleans",
+	"bookurDataId": "57ed26c86d0e810b357b2db1",
+	"wikiDataId": "5964777c811c3f826c49c6d9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "New York City",
+	"wikiData": "New York City",
+	"bookurDataId": "57ed26c96d0e810b357b2db5",
+	"wikiDataId": "5964777e811c3f826c49c766",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Newcastle-Upon-Tyne",
+	"wikiData": "Newcastle upon Tyne",
+	"bookurDataId": "57ed26c96d0e810b357b2db9",
+	"wikiDataId": "5965bfd410456ad96922d87b",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Newport",
+	"wikiData": "Newport",
+	"bookurDataId": "57ed26c96d0e810b357b2dbd",
+	"wikiDataId": "5965bf5d10456ad96922ca02",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Nha Trang",
+	"wikiData": "Nha Trang",
+	"bookurDataId": "57ed26c96d0e810b357b2dc1",
+	"wikiDataId": "5964777f811c3f826c49c79e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Nicosia",
+	"wikiData": "Nicosia",
+	"bookurDataId": "57ed26c96d0e810b357b2dc5",
+	"wikiDataId": "59647780811c3f826c49c7bf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Norfolk",
+	"wikiData": "Norfolk",
+	"bookurDataId": "57ed26c96d0e810b357b2dc9",
+	"wikiDataId": "5965bcab10456ad9692281bf",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Normandy",
+	"wikiData": "Normandy",
+	"bookurDataId": "57ed26c96d0e810b357b2dcd",
+	"wikiDataId": "59647783811c3f826c49c880",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "North Island",
+	"wikiData": "North Island",
+	"bookurDataId": "57ed26c96d0e810b357b2dd9",
+	"wikiDataId": "59647788811c3f826c49c9de",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Northern Cyprus",
+	"wikiData": "Northern Cyprus",
+	"bookurDataId": "57ed26c96d0e810b357b2de1",
+	"wikiDataId": "59647787811c3f826c49c966",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Northern Wales",
+	"wikiData": "North Wales",
+	"bookurDataId": "57ed26ca6d0e810b357b2de5",
+	"wikiDataId": "5965e38310456ad969285a93",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Nosy Be",
+	"wikiData": "Nosy Be",
+	"bookurDataId": "57ed26ca6d0e810b357b2ded",
+	"wikiDataId": "5964778b811c3f826c49ca9c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Nottingham",
+	"wikiData": "Nottingham",
+	"bookurDataId": "57ed26ca6d0e810b357b2df1",
+	"wikiDataId": "5964778b811c3f826c49caa3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oahu",
+	"wikiData": "Oahu",
+	"bookurDataId": "57ed26ca6d0e810b357b2df5",
+	"wikiDataId": "5964778d811c3f826c49cb40",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oaxaca",
+	"wikiData": "Oaxaca",
+	"bookurDataId": "57ed26ca6d0e810b357b2df9",
+	"wikiDataId": "5965c6a910456ad96923ded5",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Ocho Rios",
+	"wikiData": "Ocho Rios",
+	"bookurDataId": "57ed26ca6d0e810b357b2dfd",
+	"wikiDataId": "5964778e811c3f826c49cb9a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Odessa",
+	"wikiData": "Odessa",
+	"bookurDataId": "57ed26ca6d0e810b357b2e01",
+	"wikiDataId": "5964778e811c3f826c49cbad",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Okavango Delta",
+	"wikiData": "Okavango Delta",
+	"bookurDataId": "57ed26ca6d0e810b357b2e05",
+	"wikiDataId": "5964778f811c3f826c49cc03",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oklahoma City",
+	"wikiData": "Oklahoma City",
+	"bookurDataId": "57ed26ca6d0e810b357b2e09",
+	"wikiDataId": "59647790811c3f826c49cc19",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Omaha",
+	"wikiData": "Omaha",
+	"bookurDataId": "57ed26ca6d0e810b357b2e0d",
+	"wikiDataId": "59647791811c3f826c49cc7f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oranjestad",
+	"wikiData": "Oranjestad",
+	"bookurDataId": "57ed26ca6d0e810b357b2e11",
+	"wikiDataId": "59647792811c3f826c49ccf1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Orlando",
+	"wikiData": "Orlando",
+	"bookurDataId": "57ed26cb6d0e810b357b2e15",
+	"wikiDataId": "59647793811c3f826c49cd1e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Osaka",
+	"wikiData": "Osaka",
+	"bookurDataId": "57ed26cb6d0e810b357b2e19",
+	"wikiDataId": "59647794811c3f826c49cd43",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oslo",
+	"wikiData": "Oslo",
+	"bookurDataId": "57ed26cb6d0e810b357b2e1d",
+	"wikiDataId": "59647794811c3f826c49cd61",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ottawa",
+	"wikiData": "Ottawa",
+	"bookurDataId": "57ed26cb6d0e810b357b2e21",
+	"wikiDataId": "59647795811c3f826c49cda2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oudtshoorn",
+	"wikiData": "Oudtshoorn",
+	"bookurDataId": "57ed26cb6d0e810b357b2e25",
+	"wikiDataId": "59647795811c3f826c49cdb1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Outer Hebrides",
+	"wikiData": "Outer Hebrides",
+	"bookurDataId": "57ed26cb6d0e810b357b2e29",
+	"wikiDataId": "59647795811c3f826c49cdc7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Oviedo",
+	"wikiData": "Oviedo",
+	"bookurDataId": "57ed26cb6d0e810b357b2e2d",
+	"wikiDataId": "5965c6d010456ad96923e2fd",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Oxford",
+	"wikiData": "Oxford",
+	"bookurDataId": "57ed26cb6d0e810b357b2e31",
+	"wikiDataId": "59647796811c3f826c49cdf4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Pacific Coast",
+	"wikiData": "Pacific coast",
+	"bookurDataId": "57ed26cb6d0e810b357b2e35",
+	"wikiDataId": "5965e55210456ad96928c9a2",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Palermo",
+	"wikiData": "Palermo",
+	"bookurDataId": "57ed26cb6d0e810b357b2e39",
+	"wikiDataId": "59647798811c3f826c49ce9c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Palma de Mallorca",
+	"wikiData": "Palma de Mallorca",
+	"bookurDataId": "57ed26cb6d0e810b357b2e3d",
+	"wikiDataId": "59647799811c3f826c49cead",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Panama Canal",
+	"wikiData": "Panama Canal",
+	"bookurDataId": "57ed26cc6d0e810b357b2e41",
+	"wikiDataId": "5965bafa10456ad9692260a5",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Panama City",
+	"wikiData": "Panama City",
+	"bookurDataId": "57ed26cc6d0e810b357b2e45",
+	"wikiDataId": "5964779a811c3f826c49ceee",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Paphos",
+	"wikiData": "Paphos",
+	"bookurDataId": "57ed26cc6d0e810b357b2e49",
+	"wikiDataId": "5964779b811c3f826c49cf36",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Paramaribo",
+	"wikiData": "Paramaribo",
+	"bookurDataId": "57ed26cc6d0e810b357b2e4d",
+	"wikiDataId": "5964779c811c3f826c49cf5c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Paris",
+	"wikiData": "Paris",
+	"bookurDataId": "57ed26cc6d0e810b357b2e51",
+	"wikiDataId": "5964779c811c3f826c49cf7b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Patmos",
+	"wikiData": "Patmos",
+	"bookurDataId": "57ed26cc6d0e810b357b2e55",
+	"wikiDataId": "5964779e811c3f826c49d033",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Peloponnese Peninsula",
+	"wikiData": "Peloponnese",
+	"bookurDataId": "57ed26cc6d0e810b357b2e59",
+	"wikiDataId": "5965bd7e10456ad969229835",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Pensacola",
+	"wikiData": "Pensacola",
+	"bookurDataId": "57ed26cc6d0e810b357b2e61",
+	"wikiDataId": "596477a1811c3f826c49d10a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Perth",
+	"wikiData": "Perth",
+	"bookurDataId": "57ed26cc6d0e810b357b2e65",
+	"wikiDataId": "596477a2811c3f826c49d14c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Petra",
+	"wikiData": "Petra",
+	"bookurDataId": "57ed26cc6d0e810b357b2e69",
+	"wikiDataId": "596477a4811c3f826c49d195",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Philadelphia",
+	"wikiData": "Philadelphia",
+	"bookurDataId": "57ed26cc6d0e810b357b2e6d",
+	"wikiDataId": "596477a4811c3f826c49d1ca",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Philipsburg",
+	"wikiData": "Philipsburg",
+	"bookurDataId": "57ed26cd6d0e810b357b2e71",
+	"wikiDataId": "596477a5811c3f826c49d1e8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Phnom Penh",
+	"wikiData": "Phnom Penh",
+	"bookurDataId": "57ed26cd6d0e810b357b2e79",
+	"wikiDataId": "596477a6811c3f826c49d1f9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Phoenix",
+	"wikiData": "Phoenix",
+	"bookurDataId": "57ed26cd6d0e810b357b2e7d",
+	"wikiDataId": "596477a6811c3f826c49d1fa",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Phu Quoc",
+	"wikiData": "Phu Quoc",
+	"bookurDataId": "57ed26cd6d0e810b357b2e81",
+	"wikiDataId": "596477a6811c3f826c49d225",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Phuket",
+	"wikiData": "Phuket",
+	"bookurDataId": "57ed26cd6d0e810b357b2e85",
+	"wikiDataId": "596477a6811c3f826c49d21e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Pisa",
+	"wikiData": "Pisa",
+	"bookurDataId": "57ed26cd6d0e810b357b2e89",
+	"wikiDataId": "596477a7811c3f826c49d2b9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Pittsburgh",
+	"wikiData": "Pittsburgh",
+	"bookurDataId": "57ed26cd6d0e810b357b2e8d",
+	"wikiDataId": "596477a8811c3f826c49d2d9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Plymouth",
+	"wikiData": "Plymouth",
+	"bookurDataId": "57ed26cd6d0e810b357b2e91",
+	"wikiDataId": "5965bacc10456ad969225ce7",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Pokhara",
+	"wikiData": "Pokhara",
+	"bookurDataId": "57ed26cd6d0e810b357b2e95",
+	"wikiDataId": "596477aa811c3f826c49d38c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ponce",
+	"wikiData": "Ponce",
+	"bookurDataId": "57ed26cd6d0e810b357b2e99",
+	"wikiDataId": "596477ab811c3f826c49d3c2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Port Antonio",
+	"wikiData": "Port Antonio",
+	"bookurDataId": "57ed26ce6d0e810b357b2e9d",
+	"wikiDataId": "596477ac811c3f826c49d405",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Port Elizabeth",
+	"wikiData": "Port Elizabeth",
+	"bookurDataId": "57ed26ce6d0e810b357b2ea1",
+	"wikiDataId": "596477ad811c3f826c49d425",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Port Louis",
+	"wikiData": "Port Louis",
+	"bookurDataId": "57ed26ce6d0e810b357b2ea5",
+	"wikiDataId": "596477ad811c3f826c49d450",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Port of Spain",
+	"wikiData": "Port of Spain",
+	"bookurDataId": "57ed26ce6d0e810b357b2ea9",
+	"wikiDataId": "596477ae811c3f826c49d463",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Portland Oregon",
+	"wikiData": "Portland, Oregon",
+	"bookurDataId": "57ed26ce6d0e810b357b2eb1",
+	"wikiDataId": "5965bacc10456ad969225ce5",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Porto",
+	"wikiData": "Porto",
+	"bookurDataId": "57ed26ce6d0e810b357b2eb5",
+	"wikiDataId": "596477ae811c3f826c49d459",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Potosi",
+	"wikiData": "Potosí",
+	"bookurDataId": "57ed26ce6d0e810b357b2eb9",
+	"wikiDataId": "596477af811c3f826c49d4b9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Prague",
+	"wikiData": "Prague",
+	"bookurDataId": "57ed26ce6d0e810b357b2ebd",
+	"wikiDataId": "596477b0811c3f826c49d4e6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Praslin Island",
+	"wikiData": "Praslin",
+	"bookurDataId": "57ed26ce6d0e810b357b2ec1",
+	"wikiDataId": "5966098e10456ad96934ec41",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Pretoria",
+	"wikiData": "Pretoria",
+	"bookurDataId": "57ed26cf6d0e810b357b2ec5",
+	"wikiDataId": "596477b1811c3f826c49d539",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Provence",
+	"wikiData": "Provence-Alpes-Côte d'Azur",
+	"bookurDataId": "57ed26cf6d0e810b357b2ec9",
+	"wikiDataId": "596477b2811c3f826c49d58b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Providence",
+	"wikiData": "Providence",
+	"bookurDataId": "57ed26cf6d0e810b357b2ecd",
+	"wikiDataId": "596477b2811c3f826c49d58d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Providenciales",
+	"wikiData": "Providenciales",
+	"bookurDataId": "57ed26cf6d0e810b357b2ed1",
+	"wikiDataId": "596477b2811c3f826c49d59c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Puerto Limon",
+	"wikiData": "Puerto Limón",
+	"bookurDataId": "57ed26cf6d0e810b357b2ed5",
+	"wikiDataId": "596477b3811c3f826c49d5d6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Pushkar",
+	"wikiData": "Pushkar",
+	"bookurDataId": "57ed26cf6d0e810b357b2ed9",
+	"wikiDataId": "596477b5811c3f826c49d65c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Quebec City",
+	"wikiData": "Quebec City",
+	"bookurDataId": "57ed26cf6d0e810b357b2edd",
+	"wikiDataId": "596477b8811c3f826c49d6e3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Queenstown",
+	"wikiData": "Queenstown",
+	"bookurDataId": "57ed26cf6d0e810b357b2ee1",
+	"wikiDataId": "5965c71710456ad96923e901",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Quito",
+	"wikiData": "Quito",
+	"bookurDataId": "57ed26cf6d0e810b357b2ee5",
+	"wikiDataId": "596477b9811c3f826c49d72f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rabat",
+	"wikiData": "Rabat",
+	"bookurDataId": "57ed26cf6d0e810b357b2ee9",
+	"wikiDataId": "596477b9811c3f826c49d746",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Raleigh",
+	"wikiData": "Raleigh",
+	"bookurDataId": "57ed26cf6d0e810b357b2eed",
+	"wikiDataId": "596477bb811c3f826c49d79d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rangiroa",
+	"wikiData": "Rangiroa",
+	"bookurDataId": "57ed26cf6d0e810b357b2ef1",
+	"wikiDataId": "596477bc811c3f826c49d7db",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rarotonga",
+	"wikiData": "Rarotonga",
+	"bookurDataId": "57ed26d06d0e810b357b2ef5",
+	"wikiDataId": "596477bd811c3f826c49d801",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Recife",
+	"wikiData": "Recife",
+	"bookurDataId": "57ed26d06d0e810b357b2ef9",
+	"wikiDataId": "596477be811c3f826c49d86d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Regina",
+	"wikiData": "Regina",
+	"bookurDataId": "57ed26d06d0e810b357b2efd",
+	"wikiDataId": "596477bf811c3f826c49d8ae",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Reno",
+	"wikiData": "Reno",
+	"bookurDataId": "57ed26d06d0e810b357b2f01",
+	"wikiDataId": "596477bf811c3f826c49d8c9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Reykjavik",
+	"wikiData": "Reykjavík",
+	"bookurDataId": "57ed26d06d0e810b357b2f09",
+	"wikiDataId": "596477c0811c3f826c49d90e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rhodes",
+	"wikiData": "Rhodes",
+	"bookurDataId": "57ed26d06d0e810b357b2f0d",
+	"wikiDataId": "596477c1811c3f826c49d923",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Richmond",
+	"wikiData": "Richmond",
+	"bookurDataId": "57ed26d06d0e810b357b2f11",
+	"wikiDataId": "596477c1811c3f826c49d94f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Riga",
+	"wikiData": "Riga",
+	"bookurDataId": "57ed26d06d0e810b357b2f15",
+	"wikiDataId": "596477c2811c3f826c49d988",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rio de Janeiro",
+	"wikiData": "Rio de Janeiro",
+	"bookurDataId": "57ed26d06d0e810b357b2f19",
+	"wikiDataId": "596477c3811c3f826c49d9a4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Riyadh",
+	"wikiData": "Riyadh",
+	"bookurDataId": "57ed26d06d0e810b357b2f1d",
+	"wikiDataId": "596477c4811c3f826c49da07",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rocky Mountains",
+	"wikiData": "Rocky Mountains",
+	"bookurDataId": "57ed26d06d0e810b357b2f21",
+	"wikiDataId": "596477c5811c3f826c49da5f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rome",
+	"wikiData": "Rome",
+	"bookurDataId": "57ed26d16d0e810b357b2f25",
+	"wikiDataId": "596477c7811c3f826c49da8a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Roseau",
+	"wikiData": "Roseau",
+	"bookurDataId": "57ed26d16d0e810b357b2f29",
+	"wikiDataId": "596477c7811c3f826c49dad8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Roskilde",
+	"wikiData": "Roskilde",
+	"bookurDataId": "57ed26d16d0e810b357b2f2d",
+	"wikiDataId": "596477c7811c3f826c49daf4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Rotterdam",
+	"wikiData": "Rotterdam",
+	"bookurDataId": "57ed26d16d0e810b357b2f31",
+	"wikiDataId": "596477c8811c3f826c49db18",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Russian Far East",
+	"wikiData": "Russian Far East",
+	"bookurDataId": "57ed26d16d0e810b357b2f35",
+	"wikiDataId": "596477ca811c3f826c49db8b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sabah",
+	"wikiData": "Sabah",
+	"bookurDataId": "57ed26d16d0e810b357b2f39",
+	"wikiDataId": "596477cb811c3f826c49dbc3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Saint George",
+	"wikiData": "Saint George",
+	"bookurDataId": "57ed26d16d0e810b357b2f3d",
+	"wikiDataId": "5965bb9510456ad969226b28",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Saint-Denis",
+	"wikiData": "Saint-Denis",
+	"bookurDataId": "57ed26d16d0e810b357b2f41",
+	"wikiDataId": "596477cc811c3f826c49dc4b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sal",
+	"wikiData": "Sal",
+	"bookurDataId": "57ed26d16d0e810b357b2f45",
+	"wikiDataId": "596477ce811c3f826c49dd0d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Salt Lake City",
+	"wikiData": "Salt Lake City",
+	"bookurDataId": "57ed26d16d0e810b357b2f49",
+	"wikiDataId": "596477d0811c3f826c49dd62",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Salvador da Bahia",
+	"wikiData": "Salvador, Bahia",
+	"bookurDataId": "57ed26d16d0e810b357b2f4d",
+	"wikiDataId": "596615fb10456ad9693aa375",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Salzburg",
+	"wikiData": "Salzburg",
+	"bookurDataId": "57ed26d16d0e810b357b2f51",
+	"wikiDataId": "596477d0811c3f826c49dd6c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Samos",
+	"wikiData": "Samos",
+	"bookurDataId": "57ed26d26d0e810b357b2f55",
+	"wikiDataId": "596477d0811c3f826c49dd94",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Antonio",
+	"wikiData": "San Antonio",
+	"bookurDataId": "57ed26d26d0e810b357b2f59",
+	"wikiDataId": "596477d1811c3f826c49ddbe",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Cristobal de las Casas",
+	"wikiData": "San Cristóbal de las Casas",
+	"bookurDataId": "57ed26d26d0e810b357b2f5d",
+	"wikiDataId": "596477d2811c3f826c49dde5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Diego",
+	"wikiData": "San Diego",
+	"bookurDataId": "57ed26d26d0e810b357b2f61",
+	"wikiDataId": "596477d2811c3f826c49ddf4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Francisco",
+	"wikiData": "San Francisco",
+	"bookurDataId": "57ed26d26d0e810b357b2f65",
+	"wikiDataId": "59647882811c3f826c4a1693",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Juan",
+	"wikiData": "San Juan",
+	"bookurDataId": "57ed26d26d0e810b357b2f71",
+	"wikiDataId": "596477d4811c3f826c49deba",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Miguel de Allende",
+	"wikiData": "San Miguel de Allende",
+	"bookurDataId": "57ed26d26d0e810b357b2f75",
+	"wikiDataId": "596477d5811c3f826c49df00",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Pedro de Atacama",
+	"wikiData": "San Pedro de Atacama",
+	"bookurDataId": "57ed26d26d0e810b357b2f79",
+	"wikiDataId": "596477d6811c3f826c49df11",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santa Cruz de la Sierra",
+	"wikiData": "Santa Cruz (city, Bolivia)",
+	"bookurDataId": "57ed26d26d0e810b357b2f7d",
+	"wikiDataId": "596477d7811c3f826c49df4f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santiago",
+	"wikiData": "Santiago",
+	"bookurDataId": "57ed26d36d0e810b357b2f85",
+	"wikiDataId": "5965be1110456ad96922a5ed",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Santiago de Compostela",
+	"wikiData": "Santiago de Compostela",
+	"bookurDataId": "57ed26d36d0e810b357b2f89",
+	"wikiDataId": "596477d8811c3f826c49dfbc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santiago de Cuba",
+	"wikiData": "Santiago de Cuba",
+	"bookurDataId": "57ed26d36d0e810b357b2f8d",
+	"wikiDataId": "596477d8811c3f826c49dfbd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santiago Island",
+	"wikiData": "Santiago",
+	"bookurDataId": "57ed26d36d0e810b357b2f91",
+	"wikiDataId": "5965be1110456ad96922a5ed",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santo Antao",
+	"wikiData": "Santo Antão",
+	"bookurDataId": "57ed26d36d0e810b357b2f95",
+	"wikiDataId": "5965ef5410456ad9692bd106",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Santo Domingo",
+	"wikiData": "Santo Domingo",
+	"bookurDataId": "57ed26d36d0e810b357b2f99",
+	"wikiDataId": "596477d8811c3f826c49dfd0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santorini",
+	"wikiData": "Santorini",
+	"bookurDataId": "57ed26d36d0e810b357b2f9d",
+	"wikiDataId": "596477d8811c3f826c49dfd5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sao Luis",
+	"wikiData": "São Luís",
+	"bookurDataId": "57ed26d36d0e810b357b2fa1",
+	"wikiDataId": "596477dc811c3f826c49e0af",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sao Paulo",
+	"wikiData": "São Paulo",
+	"bookurDataId": "57ed26d36d0e810b357b2fa5",
+	"wikiDataId": "596477dc811c3f826c49e0b3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sao Vicente",
+	"wikiData": "São Vicente",
+	"bookurDataId": "57ed26d36d0e810b357b2fa9",
+	"wikiDataId": "5965f60710456ad9692ddc47",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Sapporo",
+	"wikiData": "Sapporo",
+	"bookurDataId": "57ed26d46d0e810b357b2fad",
+	"wikiDataId": "596477d9811c3f826c49e011",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sarawak",
+	"wikiData": "Sarawak",
+	"bookurDataId": "57ed26d46d0e810b357b2fb1",
+	"wikiDataId": "596477d9811c3f826c49e02d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sardinia",
+	"wikiData": "Sardinia",
+	"bookurDataId": "57ed26d46d0e810b357b2fb5",
+	"wikiDataId": "596477da811c3f826c49e02e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sark",
+	"wikiData": "Sark",
+	"bookurDataId": "57ed26d46d0e810b357b2fb9",
+	"wikiDataId": "596477da811c3f826c49e036",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Saronic Gulf Islands",
+	"wikiData": "Saronic Gulf Islands",
+	"bookurDataId": "57ed26d46d0e810b357b2fbd",
+	"wikiDataId": "596477da811c3f826c49e041",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Savannah",
+	"wikiData": "Savannah",
+	"bookurDataId": "57ed26d46d0e810b357b2fc1",
+	"wikiDataId": "596477db811c3f826c49e084",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Seattle",
+	"wikiData": "Seattle",
+	"bookurDataId": "57ed26d46d0e810b357b2fc5",
+	"wikiDataId": "596477e0811c3f826c49e188",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sedona",
+	"wikiData": "Sedona",
+	"bookurDataId": "57ed26d46d0e810b357b2fc9",
+	"wikiDataId": "596477e0811c3f826c49e1ca",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Seoul",
+	"wikiData": "Seoul",
+	"bookurDataId": "57ed26d46d0e810b357b2fcd",
+	"wikiDataId": "596477e2811c3f826c49e227",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Seville",
+	"wikiData": "Seville",
+	"bookurDataId": "57ed26d46d0e810b357b2fd1",
+	"wikiDataId": "596477e3811c3f826c49e285",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Shanghai",
+	"wikiData": "Shanghai",
+	"bookurDataId": "57ed26d46d0e810b357b2fd5",
+	"wikiDataId": "596477e4811c3f826c49e2c2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Shannon",
+	"wikiData": "Shannon",
+	"bookurDataId": "57ed26d56d0e810b357b2fd9",
+	"wikiDataId": "596477e4811c3f826c49e2dd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sharjah",
+	"wikiData": "Sharjah",
+	"bookurDataId": "57ed26d56d0e810b357b2fdd",
+	"wikiDataId": "596477e5811c3f826c49e2f0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Shenandoah Valley",
+	"wikiData": "Shenandoah Valley",
+	"bookurDataId": "57ed26d56d0e810b357b2fe1",
+	"wikiDataId": "596477e6811c3f826c49e338",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Shikoku",
+	"wikiData": "Shikoku",
+	"bookurDataId": "57ed26d56d0e810b357b2fe5",
+	"wikiDataId": "596477e6811c3f826c49e371",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sicily",
+	"wikiData": "Sicily",
+	"bookurDataId": "57ed26d56d0e810b357b2fe9",
+	"wikiDataId": "596477e8811c3f826c49e3fe",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Siem Reap",
+	"wikiData": "Siem Reap",
+	"bookurDataId": "57ed26d56d0e810b357b2fed",
+	"wikiDataId": "596477e8811c3f826c49e414",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Singapore",
+	"wikiData": "Singapore",
+	"bookurDataId": "57ed26d56d0e810b357b2ff1",
+	"wikiDataId": "596477eb811c3f826c49e488",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Skagway",
+	"wikiData": "Skagway",
+	"bookurDataId": "57ed26d56d0e810b357b2ff5",
+	"wikiDataId": "596477ed811c3f826c49e4ff",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Ski Resorts",
+	"wikiData": "Ski resort",
+	"bookurDataId": "57ed26d56d0e810b357b2ff9",
+	"wikiDataId": "5965c91110456ad9692415e0",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Skiathos",
+	"wikiData": "Skiathos",
+	"bookurDataId": "57ed26d56d0e810b357b2ffd",
+	"wikiDataId": "596477ed811c3f826c49e516",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Skopelos",
+	"wikiData": "Skopelos",
+	"bookurDataId": "57ed26d56d0e810b357b3001",
+	"wikiDataId": "596477ed811c3f826c49e52c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sochi",
+	"wikiData": "Sochi",
+	"bookurDataId": "57ed26d56d0e810b357b3005",
+	"wikiDataId": "596477f0811c3f826c49e5a2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sofia",
+	"wikiData": "Sofia",
+	"bookurDataId": "57ed26d66d0e810b357b3009",
+	"wikiDataId": "596477f0811c3f826c49e5b0",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "South Island",
+	"wikiData": "South Island",
+	"bookurDataId": "57ed26d66d0e810b357b3011",
+	"wikiDataId": "596477f7811c3f826c49e77d",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Southwest England",
+	"wikiData": "South West England",
+	"bookurDataId": "57ed26d66d0e810b357b3021",
+	"wikiDataId": "5965be3610456ad96922a9a7",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Split",
+	"wikiData": "Split",
+	"bookurDataId": "57ed26d66d0e810b357b3025",
+	"wikiDataId": "596477fa811c3f826c49e83f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Springfield",
+	"wikiData": "Springfield",
+	"bookurDataId": "57ed26d66d0e810b357b3029",
+	"wikiDataId": "5965beb510456ad96922b790",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "St Croix",
+	"wikiData": "Saint Croix, U.S. Virgin Islands",
+	"bookurDataId": "57ed26d66d0e810b357b302d",
+	"wikiDataId": "5965cce710456ad969248691",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "St Kitts",
+	"wikiData": "Saint Kitts",
+	"bookurDataId": "57ed26d76d0e810b357b303d",
+	"wikiDataId": "5965bb6710456ad96922680e",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "St Louis",
+	"wikiData": "St. Louis",
+	"bookurDataId": "57ed26d76d0e810b357b3041",
+	"wikiDataId": "596477fd811c3f826c49e997",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "St Petersburg",
+	"wikiData": "Saint Petersburg",
+	"bookurDataId": "57ed26d76d0e810b357b3045",
+	"wikiDataId": "596477ce811c3f826c49dccd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "St Thomas",
+	"wikiData": "Saint Thomas",
+	"bookurDataId": "57ed26d76d0e810b357b304d",
+	"wikiDataId": "596477ce811c3f826c49dcdf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Stavanger",
+	"wikiData": "Stavanger",
+	"bookurDataId": "57ed26d76d0e810b357b3051",
+	"wikiDataId": "596477fc811c3f826c49e8d9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Stockholm",
+	"wikiData": "Stockholm",
+	"bookurDataId": "57ed26d76d0e810b357b3055",
+	"wikiDataId": "596477fe811c3f826c49e9bf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Stuttgart",
+	"wikiData": "Stuttgart",
+	"bookurDataId": "57ed26d76d0e810b357b3059",
+	"wikiDataId": "596477ff811c3f826c49ea67",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sucre",
+	"wikiData": "Sucre",
+	"bookurDataId": "57ed26d76d0e810b357b305d",
+	"wikiDataId": "59647800811c3f826c49ea83",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sumatra",
+	"wikiData": "Sumatra",
+	"bookurDataId": "57ed26d76d0e810b357b3061",
+	"wikiDataId": "59647800811c3f826c49eac5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sunshine Coast",
+	"wikiData": "Sunshine Coast",
+	"bookurDataId": "57ed26d86d0e810b357b3065",
+	"wikiDataId": "5965e0ce10456ad96927b047",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Swansea",
+	"wikiData": "Swansea",
+	"bookurDataId": "57ed26d86d0e810b357b3069",
+	"wikiDataId": "59647803811c3f826c49eb82",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Swiss Alps",
+	"wikiData": "Swiss Alps",
+	"bookurDataId": "57ed26d86d0e810b357b306d",
+	"wikiDataId": "59647803811c3f826c49eba5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sydney",
+	"wikiData": "Sydney",
+	"bookurDataId": "57ed26d86d0e810b357b3071",
+	"wikiDataId": "59647804811c3f826c49ebad",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Sylhet",
+	"wikiData": "Sylhet",
+	"bookurDataId": "57ed26d86d0e810b357b3075",
+	"wikiDataId": "59647806811c3f826c49ec14",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tahiti",
+	"wikiData": "Tahiti",
+	"bookurDataId": "57ed26d86d0e810b357b3079",
+	"wikiDataId": "59647807811c3f826c49ec7e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Taipei",
+	"wikiData": "Taipei",
+	"bookurDataId": "57ed26d86d0e810b357b307d",
+	"wikiDataId": "59647808811c3f826c49ec92",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tallinn",
+	"wikiData": "Tallinn",
+	"bookurDataId": "57ed26d86d0e810b357b3081",
+	"wikiDataId": "5964780a811c3f826c49ece9",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tampa",
+	"wikiData": "Tampa",
+	"bookurDataId": "57ed26d86d0e810b357b3085",
+	"wikiDataId": "5964780a811c3f826c49ed0e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tangier",
+	"wikiData": "Tangier",
+	"bookurDataId": "57ed26d86d0e810b357b3089",
+	"wikiDataId": "5964780b811c3f826c49ed28",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tashkent",
+	"wikiData": "Tashkent",
+	"bookurDataId": "57ed26d96d0e810b357b308d",
+	"wikiDataId": "5964780c811c3f826c49ed94",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tbilisi",
+	"wikiData": "Tbilisi",
+	"bookurDataId": "57ed26d96d0e810b357b3091",
+	"wikiDataId": "5964780d811c3f826c49eddf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tehran",
+	"wikiData": "Tehran",
+	"bookurDataId": "57ed26d96d0e810b357b3095",
+	"wikiDataId": "5964780d811c3f826c49ee09",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tel Aviv",
+	"wikiData": "Tel Aviv",
+	"bookurDataId": "57ed26d96d0e810b357b3099",
+	"wikiDataId": "5964780e811c3f826c49ee15",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tenby",
+	"wikiData": "Tenby",
+	"bookurDataId": "57ed26d96d0e810b357b309d",
+	"wikiDataId": "5964780e811c3f826c49ee49",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tenerife",
+	"wikiData": "Tenerife",
+	"bookurDataId": "57ed26d96d0e810b357b30a1",
+	"wikiDataId": "5964780e811c3f826c49ee4b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Thassos",
+	"wikiData": "Thasos",
+	"bookurDataId": "57ed26d96d0e810b357b30a5",
+	"wikiDataId": "59647811811c3f826c49eed1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "The Algarve",
+	"wikiData": "Algarve",
+	"bookurDataId": "57ed26d96d0e810b357b30a9",
+	"wikiDataId": "5965cc7810456ad9692476ca",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Amazon",
+	"wikiData": "Amazon",
+	"bookurDataId": "57ed26d96d0e810b357b30ad",
+	"wikiDataId": "5966d5e310456ad96998f584",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Azores",
+	"wikiData": "Azores",
+	"bookurDataId": "57ed26d96d0e810b357b30b5",
+	"wikiDataId": "5965b7dc10456ad96922288e",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Berkshire Hills",
+	"wikiData": "The Berkshires",
+	"bookurDataId": "57ed26d96d0e810b357b30b9",
+	"wikiDataId": "5965d9e510456ad969266190",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Coast",
+	"wikiData": "The Coast",
+	"bookurDataId": "57ed26da6d0e810b357b30c5",
+	"wikiDataId": "59647885811c3f826c4a18b2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "The Cotswolds",
+	"wikiData": "Cotswolds",
+	"bookurDataId": "57ed26da6d0e810b357b30cd",
+	"wikiDataId": "5965b86a10456ad969223197",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Great Rift Valley",
+	"wikiData": "Great Rift Valley",
+	"bookurDataId": "57ed26da6d0e810b357b30d9",
+	"wikiDataId": "5965b93610456ad9692240b8",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Islands",
+	"wikiData": "The Islands",
+	"bookurDataId": "57ed26da6d0e810b357b30e5",
+	"wikiDataId": "5966116f10456ad96938776b",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Lake District",
+	"wikiData": "Lake District National Park",
+	"bookurDataId": "57ed26db6d0e810b357b30ed",
+	"wikiDataId": "59647732811c3f826c49b3e2",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "The Namib Desert",
+	"wikiData": "Namib",
+	"bookurDataId": "57ed26db6d0e810b357b30f1",
+	"wikiDataId": "5965c95a10456ad969241d16",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The New Territories",
+	"wikiData": "New Territories",
+	"bookurDataId": "57ed26db6d0e810b357b30f5",
+	"wikiDataId": "5965cd0410456ad9692489cc",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "The Valley",
+	"wikiData": "Valley",
+	"bookurDataId": "57ed26db6d0e810b357b3109",
+	"wikiDataId": "5965bc1c10456ad9692273d7",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Thessaloniki",
+	"wikiData": "Thessaloniki",
+	"bookurDataId": "57ed26db6d0e810b357b310d",
+	"wikiDataId": "59647811811c3f826c49ef2f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Thimphu",
+	"wikiData": "Thimphu",
+	"bookurDataId": "57ed26db6d0e810b357b3111",
+	"wikiDataId": "59647812811c3f826c49ef44",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Thunder Bay",
+	"wikiData": "Thunder Bay",
+	"bookurDataId": "57ed26db6d0e810b357b3115",
+	"wikiDataId": "59647813811c3f826c49ef8b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tibet",
+	"wikiData": "Tibet",
+	"bookurDataId": "57ed26db6d0e810b357b3119",
+	"wikiDataId": "59647813811c3f826c49efa3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tijuana",
+	"wikiData": "Tijuana",
+	"bookurDataId": "57ed26dc6d0e810b357b311d",
+	"wikiDataId": "59647813811c3f826c49efbc",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tokyo",
+	"wikiData": "Tokyo",
+	"bookurDataId": "57ed26dc6d0e810b357b3121",
+	"wikiDataId": "59647817811c3f826c49f071",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Toronto",
+	"wikiData": "Toronto",
+	"bookurDataId": "57ed26dc6d0e810b357b3125",
+	"wikiDataId": "5964781a811c3f826c49f104",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tortola",
+	"wikiData": "Tortola",
+	"bookurDataId": "57ed26dc6d0e810b357b3129",
+	"wikiDataId": "5964781b811c3f826c49f149",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Toulouse",
+	"wikiData": "Toulouse",
+	"bookurDataId": "57ed26dc6d0e810b357b312d",
+	"wikiDataId": "5964781b811c3f826c49f15f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Townsville",
+	"wikiData": "Townsville",
+	"bookurDataId": "57ed26dc6d0e810b357b3131",
+	"wikiDataId": "5964781c811c3f826c49f17a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Transkei",
+	"wikiData": "Wild Coast",
+	"bookurDataId": "57ed26dc6d0e810b357b3135",
+	"wikiDataId": "59647844811c3f826c49fb40",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Transylvania",
+	"wikiData": "Transylvania",
+	"bookurDataId": "57ed26dc6d0e810b357b3139",
+	"wikiDataId": "5964781d811c3f826c49f1b8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Trinidad",
+	"wikiData": "Trinidad",
+	"bookurDataId": "57ed26dc6d0e810b357b313d",
+	"wikiDataId": "59647820811c3f826c49f237",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tripoli",
+	"wikiData": "Tripoli",
+	"bookurDataId": "57ed26dc6d0e810b357b3141",
+	"wikiDataId": "59647820811c3f826c49f240",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tromso",
+	"wikiData": "Tromsø",
+	"bookurDataId": "57ed26dc6d0e810b357b3145",
+	"wikiDataId": "59647821811c3f826c49f25b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Trondheim",
+	"wikiData": "Trondheim",
+	"bookurDataId": "57ed26dd6d0e810b357b3149",
+	"wikiDataId": "59647821811c3f826c49f25f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tucson",
+	"wikiData": "Tucson",
+	"bookurDataId": "57ed26dd6d0e810b357b314d",
+	"wikiDataId": "59647822811c3f826c49f2c1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tulsa",
+	"wikiData": "Tulsa",
+	"bookurDataId": "57ed26dd6d0e810b357b3151",
+	"wikiDataId": "59647823811c3f826c49f2e1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tunis",
+	"wikiData": "Tunis",
+	"bookurDataId": "57ed26dd6d0e810b357b3155",
+	"wikiDataId": "59647823811c3f826c49f2f6",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Tuscany",
+	"wikiData": "Tuscany",
+	"bookurDataId": "57ed26dd6d0e810b357b3159",
+	"wikiDataId": "59647825811c3f826c49f325",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Udaipur",
+	"wikiData": "Udaipur",
+	"bookurDataId": "57ed26dd6d0e810b357b315d",
+	"wikiDataId": "59647826811c3f826c49f388",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Umbria",
+	"wikiData": "Umbria",
+	"bookurDataId": "57ed26dd6d0e810b357b3161",
+	"wikiDataId": "59647828811c3f826c49f3eb",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Uppsala",
+	"wikiData": "Uppsala",
+	"bookurDataId": "57ed26dd6d0e810b357b3165",
+	"wikiDataId": "5964782b811c3f826c49f466",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Valencia",
+	"wikiData": "Valencia",
+	"bookurDataId": "57ed26dd6d0e810b357b3169",
+	"wikiDataId": "5964782e811c3f826c49f51a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Valletta",
+	"wikiData": "Valletta",
+	"bookurDataId": "57ed26dd6d0e810b357b316d",
+	"wikiDataId": "5964782e811c3f826c49f54b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vancouver",
+	"wikiData": "Vancouver",
+	"bookurDataId": "57ed26dd6d0e810b357b3171",
+	"wikiDataId": "5964782f811c3f826c49f56e",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vancouver Island",
+	"wikiData": "Vancouver Island",
+	"bookurDataId": "57ed26de6d0e810b357b3175",
+	"wikiDataId": "5964782f811c3f826c49f58b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vang Vieng",
+	"wikiData": "Vang Vieng",
+	"bookurDataId": "57ed26de6d0e810b357b3179",
+	"wikiDataId": "5964782f811c3f826c49f592",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Varanasi",
+	"wikiData": "Varanasi",
+	"bookurDataId": "57ed26de6d0e810b357b317d",
+	"wikiDataId": "59647830811c3f826c49f5a5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Venice",
+	"wikiData": "Venice",
+	"bookurDataId": "57ed26de6d0e810b357b3181",
+	"wikiDataId": "59647831811c3f826c49f60a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Verona",
+	"wikiData": "Verona",
+	"bookurDataId": "57ed26de6d0e810b357b3189",
+	"wikiDataId": "59647832811c3f826c49f647",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Victoria Falls",
+	"wikiData": "Victoria Falls",
+	"bookurDataId": "57ed26de6d0e810b357b318d",
+	"wikiDataId": "59647833811c3f826c49f684",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vienna",
+	"wikiData": "Vienna",
+	"bookurDataId": "57ed26de6d0e810b357b3191",
+	"wikiDataId": "59647833811c3f826c49f692",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vientiane",
+	"wikiData": "Vientiane",
+	"bookurDataId": "57ed26de6d0e810b357b3195",
+	"wikiDataId": "59647834811c3f826c49f69f",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vigo",
+	"wikiData": "Vigo",
+	"bookurDataId": "57ed26de6d0e810b357b3199",
+	"wikiDataId": "59647834811c3f826c49f6a8",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vilnius",
+	"wikiData": "Vilnius",
+	"bookurDataId": "57ed26de6d0e810b357b319d",
+	"wikiDataId": "59647835811c3f826c49f6de",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vinales Valley",
+	"wikiData": "Viñales Valley",
+	"bookurDataId": "57ed26df6d0e810b357b31a1",
+	"wikiDataId": "59661d0a10456ad9693dff61",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Virgin Gorda",
+	"wikiData": "Virgin Gorda",
+	"bookurDataId": "57ed26df6d0e810b357b31a5",
+	"wikiDataId": "59647835811c3f826c49f6f5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Vitoria",
+	"wikiData": "Vitoria",
+	"bookurDataId": "57ed26df6d0e810b357b31ad",
+	"wikiDataId": "59660c1e10456ad9693605f3",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Vojvodina",
+	"wikiData": "Vojvodina",
+	"bookurDataId": "57ed26df6d0e810b357b31b1",
+	"wikiDataId": "59647836811c3f826c49f735",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Walvis Bay",
+	"wikiData": "Walvis Bay",
+	"bookurDataId": "57ed26df6d0e810b357b31b5",
+	"wikiDataId": "5964783a811c3f826c49f808",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Warsaw",
+	"wikiData": "Warsaw",
+	"bookurDataId": "57ed26df6d0e810b357b31b9",
+	"wikiDataId": "5964783b811c3f826c49f851",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Washington DC",
+	"wikiData": "Washington, D.C.",
+	"bookurDataId": "57ed26df6d0e810b357b31bd",
+	"wikiDataId": "5964783c811c3f826c49f8b1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Wellington",
+	"wikiData": "Wellington",
+	"bookurDataId": "57ed26df6d0e810b357b31c1",
+	"wikiDataId": "5964783f811c3f826c49f96b",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "West Okoboji Lake",
+	"wikiData": "West Okoboji Lake",
+	"bookurDataId": "57ed26df6d0e810b357b31c9",
+	"wikiDataId": "5965da9810456ad9692680e5",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Western Maryland",
+	"wikiData": "Western Maryland",
+	"bookurDataId": "57ed26e06d0e810b357b31cd",
+	"wikiDataId": "59647840811c3f826c49f9fd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Whitehorse",
+	"wikiData": "Whitehorse",
+	"bookurDataId": "57ed26e06d0e810b357b31d5",
+	"wikiDataId": "59647843811c3f826c49faf3",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Whitsunday Islands",
+	"wikiData": "Whitsunday Islands",
+	"bookurDataId": "57ed26e06d0e810b357b31d9",
+	"wikiDataId": "59647843811c3f826c49fb16",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Windhoek",
+	"wikiData": "Windhoek",
+	"bookurDataId": "57ed26e06d0e810b357b31e1",
+	"wikiDataId": "59647844811c3f826c49fb98",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Winnipeg",
+	"wikiData": "Winnipeg",
+	"bookurDataId": "57ed26e06d0e810b357b31e5",
+	"wikiDataId": "59647845811c3f826c49fbba",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Xi An",
+	"wikiData": "Xi'an",
+	"bookurDataId": "57ed26e06d0e810b357b31e9",
+	"wikiDataId": "5965c0a510456ad96922f22c",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Yangon",
+	"wikiData": "Yangon",
+	"bookurDataId": "57ed26e06d0e810b357b31ed",
+	"wikiDataId": "5964784a811c3f826c49fd29",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Yellowknife",
+	"wikiData": "Yellowknife",
+	"bookurDataId": "57ed26e06d0e810b357b31f1",
+	"wikiDataId": "5964784c811c3f826c49fd74",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Yerevan",
+	"wikiData": "Yerevan",
+	"bookurDataId": "57ed26e06d0e810b357b31f5",
+	"wikiDataId": "5964784c811c3f826c49fd91",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Yogyakarta",
+	"wikiData": "Yogyakarta",
+	"bookurDataId": "57ed26e06d0e810b357b31f9",
+	"wikiDataId": "5964784d811c3f826c49fdaa",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "York",
+	"wikiData": "York",
+	"bookurDataId": "57ed26e16d0e810b357b31fd",
+	"wikiDataId": "5964784d811c3f826c49fdbe",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Yucatan Peninsula",
+	"wikiData": "Yucatán Peninsula",
+	"bookurDataId": "57ed26e16d0e810b357b3201",
+	"wikiDataId": "5964784f811c3f826c49fdec",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Zagreb",
+	"wikiData": "Zagreb",
+	"bookurDataId": "57ed26e16d0e810b357b3205",
+	"wikiDataId": "59647850811c3f826c49fe30",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Zakynthos",
+	"wikiData": "Zakynthos",
+	"bookurDataId": "57ed26e16d0e810b357b3209",
+	"wikiDataId": "59647850811c3f826c49fe3a",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Zanzibar",
+	"wikiData": "Zanzibar",
+	"bookurDataId": "57ed26e16d0e810b357b320d",
+	"wikiDataId": "59647851811c3f826c49fe5c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Zurich",
+	"wikiData": "Zurich",
+	"bookurDataId": "57ed26e16d0e810b357b3211",
+	"wikiDataId": "59647854811c3f826c49fef1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Lagos, Portugal",
+	"wikiData": "Lagos, Portugal",
+	"bookurDataId": "59267d816d0e81636b7b23c6",
+	"wikiDataId": "5965d95b10456ad969264d03",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Cadiz",
+	"wikiData": "Cádiz",
+	"bookurDataId": "592fc2736d0e814007cc3717",
+	"wikiDataId": "59647683811c3f826c4985d1",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}]

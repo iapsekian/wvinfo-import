@@ -1,0 +1,122 @@
+[
+{
+	"bookurData": "Jackson Mississippi",
+	"wikiData": "Jackson, Mississippi",
+	"bookurDataId": "57ed26bc6d0e810b357b2b69",
+	"wikiDataId": "5965b9bd10456ad96922495d",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Jackson Wyoming",
+	"wikiData": "Jackson, Wyoming",
+	"bookurDataId": "57ed26bc6d0e810b357b2b6d",
+	"wikiDataId": "5965c54f10456ad96923b3ca",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Kingston",
+	"wikiData": "Kingston (Jamaica)",
+	"bookurDataId": "57ed26be6d0e810b357b2bd1",
+	"wikiDataId": "59647723811c3f826c49afca",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Portland",
+	"wikiData": "Portland (Maine)",
+	"bookurDataId": "57ed26ce6d0e810b357b2ead",
+	"wikiDataId": "596477ad811c3f826c49d447",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Jose",
+	"wikiData": "San Jose (California)",
+	"bookurDataId": "57ed26d26d0e810b357b2f69",
+	"wikiDataId": "596477d4811c3f826c49deb4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "San Jose Costa Rica",
+	"wikiData": "San José (Costa Rica)",
+	"bookurDataId": "57ed26d26d0e810b357b2f6d",
+	"wikiDataId": "596477d4811c3f826c49deaf",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Santa Fe",
+	"wikiData": "Santa Fe (New Mexico)",
+	"bookurDataId": "57ed26d36d0e810b357b2f81",
+	"wikiDataId": "596477d7811c3f826c49df6c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+},  {
+	"bookurData": "St John",
+	"wikiData": "Saint John (Virgin Islands)",
+	"bookurDataId": "57ed26d66d0e810b357b3031",
+	"wikiDataId": "596477cd811c3f826c49dc89",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "St Johns",
+	"wikiData": "St. John's",
+	"bookurDataId": "57ed26d66d0e810b357b3035",
+	"wikiDataId": "596477fd811c3f826c49e97c",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+},  {
+	"bookurData": "St Johns Antigua",
+	"wikiData": "Saint John's",
+	"bookurDataId": "57ed26d76d0e810b357b3039",
+	"wikiDataId": "596477cd811c3f826c49dc87",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+},  {
+	"bookurData": "St Petersburg Florida",
+	"wikiData": "Saint Petersburg",
+	"bookurDataId": "57ed26d76d0e810b357b3049",
+	"wikiDataId": "596477ce811c3f826c49dccd",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "The Highlands",
+	"wikiData": "Scottish Highlands",
+	"bookurDataId": "57ed26da6d0e810b357b30dd",
+	"wikiDataId": "5965bb9010456ad969226adf",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Wilmington",
+	"wikiData": "Wilmington Manor, Delaware",
+	"bookurDataId": "57ed26e06d0e810b357b31dd",
+	"wikiDataId": "5965c2b410456ad969233e98",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+},  {
+	"bookurData": "Charleston",
+	"wikiData": "Charleston (South Carolina)",
+	"bookurDataId": "57ed26ad6d0e810b357b28b5",
+	"wikiDataId": "59647693811c3f826c498a78",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Cartagena",
+	"wikiData": "Cartagena (Colombia)",
+	"bookurDataId": "57ed26ac6d0e810b357b288d",
+	"wikiDataId": "5964768c811c3f826c4987f5",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}, {
+	"bookurData": "Chilean Patagonia",
+	"wikiData": "Patagonia",
+	"bookurDataId": "57ed26ae6d0e810b357b28dd",
+	"wikiDataId": "5965bf6910456ad96922cc10",
+	"wikiDataType": "page",
+	"source": "wikipedia"
+}, {
+	"bookurData": "Durham",
+	"wikiData": "Durham (England)",
+	"bookurDataId": "57ed26b26d0e810b357b29b9",
+	"wikiDataId": "596476c4811c3f826c4995d4",
+	"wikiDataType": "page",
+	"source": "wikivoyage"
+}
+]
