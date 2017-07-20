@@ -1,3 +1,8 @@
+/*jshint esversion: 6 */
+
+//useage: node handleDisambiguation.js City ---> for content type City
+//useage: node handleDisambiguation.js Att ---> for content type Attraction
+//
 const fs=require('fs')
 const MongoClient = require('mongodb').MongoClient
 const wikiUtil = require('./lib/wikiUtil.js')

@@ -1,0 +1,90 @@
+<div ng-controller="ContentListController as contentListCtrl">
+    <div class="row">
+        <div ng-attr-lr-infinite-scroll="loadMoreContents"
+             ng-attr-scroll-threshold="{{ contentListCtrl.scrollThreshold }}" ng-attr-time-threshold="{{ contentListCtrl.timeThreshold }}"
+             ng-style="contentListCtrl.blockStyle">
+            <!--<div id="infiniteScrollCtrl">-->
+            <div ng-class="contentListCtrl.columns" ng-repeat="columnContents in contentListCtrl.contentList track by $index" ng-init="columnIndex = $index"
+                 style="padding:0px;">
+                <div class="media" ng-controller="ContentListDetailController as contentListDetailCtrl" ng-repeat="content in columnContents track by $index">
+                <div class="citybannerImage_div" style="background-image:url({{rubedo.imageUrl.getUrlByMediaId(content.fields.image)}});" >
+                     <h1 class="media-heading" style="position:absolute;top:20%; left:10%;">
+                        <span class="citybannerTitle_span">{{content.fields.text }}</span>
+                     </h1>
+                </div>
+                <div class="citySummaryOuterContainer_div" ng-controller="ContentLayoutController as clctrl">
+                    {{clctrl.convertCityData2HTML()}}
+                    <ul class="nav nav-tabs">
+                            <li class="active"><a showtab data-toggle="tab" href="#overview">Overview</a></li>
+                            <li ng-if="content.fields.GettingAround"><a showtab data-toggle="tab" href="#gettingaround">Getting Around</a></li>
+                            <li ng-if="content.fields.Sightseeing || content.fields.KidsAttraction"><a showtab data-toggle="tab" href="#attraction">Attraction</a></li>
+                            <li ng-if="content.fields.NightLife"><a showtab data-toggle="tab" href="#nightlife">Nightlife</a></li>
+                            <li ng-if="content.fields.Shopping"><a showtab data-toggle="tab" href="#shopping">Shopping</a></li>
+                            <li ng-if="content.fields.Climate"><a showtab data-toggle="tab" href="#climate">Climate</a></li>
+                            <li ng-if="content.fields.Restaurant"><a showtab data-toggle="tab" href="#restaurant">Restaurant</a></li>
+                            <li ng-if="content.fields.getIn"><a showtab data-toggle="tab" href="#getin">Get In</a></li>
+                            <li ng-if="content.fields.goNext"><a showtab data-toggle="tab" href="#gonext">Go Next</a></li>
+                            <li ng-if="content.fields.do"><a showtab data-toggle="tab" href="#do">Do</a></li>
+                            <li ng-if="content.fields.sleep"><a showtab data-toggle="tab" href="#sleep">Hotel</a></li>
+                            <li ng-if="content.fields.staySafe"><a showtab data-toggle="tab" href="#staysafe">Stay Safe</a></li>
+                            <li ng-if="content.fields.stayHealthy"><a showtab data-toggle="tab" href="#stayhealthy">Stay Healthy</a></li>
+                            <li ng-if="content.fields.talk"><a showtab data-toggle="tab" href="#talk">Talk</a></li>
+                        </ul>
+                    <div class="container citySummaryContainer_div" >
+                        <div class="tab-content">
+                            <div id="overview" class="tab-pane fade in active">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityOverviewHTML"></p> 
+                            </div>
+                            <div id="gettingaround" class="tab-pane fade">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityGettingAroundHTML"></p>
+                            </div>
+                            <div id="attraction" class="tab-pane fade">
+                                <p class="cityContent_p" ng-bind-html="clctrl.citySightseeingHTML"></p>
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityKidsAttractionHTML"></p>
+                            </div>
+                            <div id="nightlife" class="tab-pane fade">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityNightLifeHTML"></p>
+                            </div>
+                            <div id="shopping" class="tab-pane fade">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityShoppingHTML"></p>
+                            </div>
+                            <div id="climate" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityClimateHTML"></p>
+                            </div>
+                            <div id="restaurant" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityRestaurantHTML"></p>
+                            </div>
+                            <div id="getin" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityGetInHTML"></p>
+                            </div>
+                            <div id="gonext" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityGoNextHTML"></p>
+                            </div>
+                            <div id="do" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityDoHTML"></p>
+                            </div>
+                            <div id="sleep" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.citySleepHTML"></p>
+                            </div>
+                            <div id="staysafe" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityStaySafeHTML"></p>
+                            </div>
+                            <div id="stayhealthy" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityStayHealthyHTML"></p>
+                            </div>
+                            <div id="talk" class="tab-pane fade ">
+                                <p class="cityContent_p" ng-bind-html="clctrl.cityTalkHTML"></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cityMap_div">
+                        <iframe src="{{clctrl.mapLocationURL}}" style="width:100%;height:30vh;"></iframe>
+                    </div>
+                    <div class="citySummaryCover_div"></div>
+                </div>
+                
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,3 +1,9 @@
+/*jshint esversion: 6 */
+
+//useage: node dataComparison.js City true ---> for content type City online
+//useage: node dataComparison.js Att true ---> for content type Attraction online
+
+
 const fs=require('fs')
 const MongoClient = require('mongodb').MongoClient
 const wikiUtil = require('./lib/wikiUtil.js')
@@ -93,7 +99,7 @@ let dataPreparation = () => {
 }
 
 let compareData = async () => {
-	console.log('Compare Cities starts.....')
+	console.log('Compare %s starts.....', ctnType)
 	let tmpLevel = {}
 
 	let bookurDataCount = bookurData.length

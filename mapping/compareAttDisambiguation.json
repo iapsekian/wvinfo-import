@@ -6,7 +6,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Alexander Nevsky Cathedral, Baku", "Alexander Nevsky Cathedral, Sofia", "Alexander Nevsky Cathedral, Tallinn", "Alexander Nevsky Cathedral, Paris", "Alexander Nevsky Cathedral, Tiflis", "Alexander Nevsky Cathedral, Łódź", "Alexander Nevsky Cathedral, Warsaw", "Alexander Nevsky Cathedral, Izhevsk", "Alexander Nevsky Cathedral, Moscow", "Alexander Nevsky Cathedral, Nizhny Novgorod", "Alexander Nevsky Cathedral, Novosibirsk", "Alexander Nevsky Cathedral, Petrozavodsk", "Alexander Nevsky Cathedral, Saint Petersburg", "Alexander Nevsky Cathedral, Belgrade", "Alexander Nevsky Cathedral, Prešov", "Kamianets-Podilskyi", "Alexander Nevsky Cathedral, Yalta", "Alexander Nevsky Cathedral, Allison Park", "Alexander Nevsky Cathedral, Howell", "Tashkent", "== See also ==", "Alexander Nevsky Lavra", "Church of St Alexander Nevsky, Jerusalem", "Church of St. Alexander Nevsky, Vilnius"]
-}, {
+}, {X
 	"bookurData": "Archaeological Museum",
 	"wikiData": "Archaeological Museum",
 	"bookurDataId": "57ea19786d0e81454c7b2bb8",
@@ -16,21 +16,21 @@
 	"remark": ["Archaeological Museum, Thrissur", "Archaeological Museum (Milan)", "==See also==", "National Archaeological Museum (disambiguation)"]
 }, {
 	"bookurData": "Avenue of Stars",
-	"wikiData": "Avenue of the Stars",
+	"wikiData": "Avenue of Stars, Hong Kong",
 	"bookurDataId": "57ea19796d0e81454c7b2c4c",
-	"wikiDataId": "596769fe10456ad969c7cd41",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965fccc10456ad96930026f",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["==Locations==", "Avenue of the Stars, Century City", "Avenue of Stars, Hong Kong", "Hong Kong Avenue of Comic Stars", "Cedar Park, Texas", "Frisco, Texas", "Avenue of Stars, London", "==See also==", "List of halls and walks of fame"]
 }, {
 	"bookurData": "Belvedere",
-	"wikiData": "Belvedere",
+	"wikiData": "Belvedere, Vienna",
 	"bookurDataId": "57ea197c6d0e81454c7b2dd0",
-	"wikiDataId": "5965cabb10456ad96924411b",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965e53410456ad96928bf47",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["==Places==", "===United States===", "Belvedere, California", "Belvedere Lagoon", "Belvedere Park, California", "Belvedere Island", "Belvedere, Glenn County, California", "Belvedere, Ohio", "Belvedere, South Carolina", "Riverfront Plaza/Belvedere", "Belvedere, United States Virgin Islands", "===Elsewhere===", "Belvedere, Edmonton", "Belvedere, Alberta", "Belvédère", "Mount Belvedere", "Belvedere (Casablanca)", "Belvedere, London", "Belvedere, Montevideo", "Belvedere, Harare", "Belvedere Glacier", "==Buildings==", "Belvedere (structure)", "Belvedere, Vienna", "Belvedere (Palace Chapel)", "Hotel Belvédère du Rayon Vert", "Belvedere auf dem Pfingstberg", "Belvedere auf dem Klausberg", "Schloss Belvedere, Weimar", "Cortile del Belvedere", "Belvedere Estate", "Belvedere House and Gardens", "Fort Belvedere (disambiguation)", "Belvedere (Wellington)", "Belvedere Hotel", "Belvedere (West Virginia)", "Estadio Belvedere", "Belvédère tower", "Belvedere Water Tower", "Belvedere Incinerator", "Belvedere Power Station", "Belvedere Apartments (Columbia, Missouri)", "==Schools==", "Belvedere College", "The Belvedere Academy", "==Football clubs==", "Belvedere F.C.", "Burnley Belvedere F.C.", "==Transportation==", "Bristol Belvedere", "Plymouth Belvedere", "Belvedere railway station", "Belvedere LRT Station", "Muttbach-Belvédère Station", "==Arts and entertainment==", "Belvedere (M. C. Escher)", "Belvedere (band)", "Belvedere (comic strip)", "Belvedere (film)", "Lynn Aloysius Belvedere", "Belvedere Records", "Bristol (solitaire)", "Apollo Belvedere", "==People==", "Andrea Belvedere", "Robert Mascara", "==Other uses==", "Earl of Belvedere", "Belvédère (company)", "Belvedere (vodka)", "==See also==", "Erith & Belvedere F.C.", "Old Belvedere", "Belvidere (disambiguation)", "Belvedér", "Belweder", "Pontikokastro"]
-}, {
+}, {X
 	"bookurData": "Biot",
 	"wikiData": "Biot",
 	"bookurDataId": "57ea197d6d0e81454c7b2e54",
@@ -38,7 +38,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["==Places==", "Biot, Alpes-Maritimes", "Castelnau-de-Brassac", "British Indian Ocean Territory", "==Fiction==", "Biological robot", "==Physics==", "Biot (crater)", "Biot number", "Abampere", "==People==", "Biot (surname)", "==Physiology==", "Biot's breathing"]
-}, {
+}, {X
 	"bookurData": "Cabildo",
 	"wikiData": "Cabildo",
 	"bookurDataId": "57ea19806d0e81454c7b2ffc",
@@ -46,7 +46,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Cabildo (council)", "Cabildo (Cuba)", "Cabildo (magazine)", "Cabildo (opera)", "The Cabildo", "Cabildo Canaries", "Buenos Aires Cabildo", "Cabildo, Chile"]
-}, {
+}, {X
 	"bookurData": "Castle Park",
 	"wikiData": "Castle Park",
 	"bookurDataId": "57ea19836d0e81454c7b3110",
@@ -56,37 +56,37 @@
 	"remark": ["Castle Park, Bristol", "Castle Park House", "Castle Park Cricket Ground", "Castle Park rugby stadium", "Castle Park, Michigan", "Castle Park (amusement park)", "Castle Park High School", "Castle Park, Caerphilly"]
 }, {
 	"bookurData": "Castro",
-	"wikiData": "Castro",
+	"wikiData": "Castro, Chile",
 	"bookurDataId": "57ea19836d0e81454c7b311c",
-	"wikiDataId": "5965c7a410456ad96923f474",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5966092810456ad96934bfc9",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["== Places and jurisdictions ==", "Roman Catholic Diocese of Castro (disambiguation)", "Castro Barros (disambiguation)", "Castro Street (disambiguation)", "Castro Station (disambiguation)", "Castro City (disambiguation)", "Castro, Paraná", "Castro, Chile", "Castro, Apulia", "Roman Catholic Diocese of Castro di Puglia", "Castro, Lazio", "Roman Catholic Diocese of Castro del Lazio", "Castro, Lombardy", "Castel di Castro", "Oschiri", "Roman Catholic Diocese of Castro di Sardegna", "Castro, Ticino", "Castro County, Texas", "Castro Cove", "Castro Creek", "Castro Street Station", "Castro Theatre", "The Castro, San Francisco", "Castro Valley, California", "== People ==", "Castro (surname)", "House of Castro", "De Castro", "Marco Castro", "Prince Carlo, Duke of Castro", "Castro (musician)", "Cipriano Castro", "Fidel Castro", "Joaquin Castro", "Julian Castro", "Julián Castro", "Marco Castro", "Raúl Castro", "Martin Castrogiovanni", "Duke of Castro (disambiguation)", "Castro brothers (disambiguation)", "De castro family (disambiguation)", "Alyana Castro (disambiguation)", "Benjamin Castro (disambiguation)", "Carlos Castro (disambiguation)", "Eddie Castro (disambiguation)", "Fernando Castro (disambiguation)", "Fernando Ruiz de Castro (disambiguation)", "Fidel Castro (disambiguation)", "Francisco Castro (disambiguation)", "Israel Castro (disambiguation)", "Jason Castro (disambiguation)", "Jesús Castro (disambiguation)", "Jorge Castro (disambiguation)", "José Castro (disambiguation)", "Joseph Castro (disambiguation)", "Luís Castro (disambiguation)", "Michael Castro (disambiguation)", "Nelson Castro (disambiguation)", "Oscar Castro (disambiguation)", "Pedro Fernández de Castro (disambiguation)", "Plácido de Castro (disambiguation)", "Ramón Castro (disambiguation)", "Raúl Castro (disambiguation)", "Sebastian Castro (disambiguation)", "Sergio de Castro (disambiguation)", "== Other uses==", "Castro culture", "Castros in Spain", "Castro (village)", "Castro (clothing)", "Wars of Castro", "Castro FC", "Jose Castro House", "== See also==", "Castrum", "Kastro (disambiguation)", "Castor (disambiguation)", "Gastro-"]
 }, {
 	"bookurData": "Cathedral of St Nicholas",
-	"wikiData": "St. Nicholas Church",
+	"wikiData": "Ljubljana Cathedral",
 	"bookurDataId": "57ea19836d0e81454c7b3134",
-	"wikiDataId": "5966765410456ad9696f1d58",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "59666ca210456ad9696955c3",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["==Austria==", "Church of St. Nikolaus, Lockenhaus", "St. Nicholas' Church, Inzersdorf", "==Albania==", "St. Nicholas' Church, Moscopole", "St. Nicholas' Church, Perondi", "St. Nicholas' Church, Shelcan", "==Belgium==", "Saint Nicholas' Church, Ghent", "==Bulgaria==", "Church of St Nicholas, Sapareva Banya", "Russian Church, Sofia", "Church of St. Nicholas, Sofia", "Church of St Nicholas, Vukovo", "==Canada==", "St. Nicholas Macedonian Orthodox Church, Windsor, Ontario", "==Croatia==", "Church of St. Nicholas, Rijeka", "==Czech Republic==", "St. Nicholas Church (Lesser Town)", "St. Nicolas Church in Louny", "St. Nicholas Church (Vršovice)", "==Denmark==", "St. Nicolai Church", "St. Nicholas' Church, Aarhus", "==Estonia==", "St. Nicholas' Church, Tallinn", "==France==", "Saint-Nicolas-du-Chardonnet", "==Germany==", "Nikolaikirche", "St. Nikolai, Hamburg", "Steindamm Church", "St. Nicholas Church, Leipzig", "St. Nicholas' Church, Potsdam", "Schelfkirche", "St. Nicolai, Stralsund", "==Greece==", "Church of Saint Nicholas Orphanos", "==Hungary==", "Saint Nicholas Serbian Orthodox Church, Szeged", "==Iran==", "St. Nicholas Church, Tehran", "==Republic of Ireland==", "Church of St. Nicholas Without, Dublin", "Church of St. Nicholas Within", "St. Nicholas of Myra (Without), Francis Street", "St. Nicholas' Collegiate Church", "==Italy==", "Basilica di San Nicola", "San Nicola (Ottana)", "Palmi Cathedral", "San Nicola, Pisa", "San Nicola da Tolentino agli Orti Sallustiani", "San Nicola in Carcere", "San Nicola alla Carità, Naples", "==Kosovo==", "Church of St. Nicholas, Prizren", "==Lithuania==", "St. Nicholas Church, Semeliškės", "St. Nicholas Church, Vilnius", "==Republic of Macedonia==", "St. Nikolas (Kumanovo)", "==Malta==", "St Nicholas & St Lucy's Chapel, Buskett", "St Nicholas' Chapel, Għargħur", "Church of St Nicholas, Siġġiewi", "Church of St Nicholas, Valletta", "Chapel of St Nicholas, Żejtun", "Chapel of St. Nicholas, Żonqor", "==Monaco==", "Saint Nicholas Cathedral, Monaco", "==Netherlands==", "Basilica of St. Nicholas, Amsterdam", "Ons' Lieve Heer op Solder", "Oude Kerk (Amsterdam)", "==Poland==", "Cathedral of St. Nicholas, Bielsko-Biała", "St. Nicholas Cathedral, Elbląg", "St. Nicholas Church in Wysocice", "==Romania==", "St. Nicholas Church, Brașov", "Curtea de Argeş Cathedral", "==Russia==", "St. Nicholas Church (Buzhaninovo)", "Church of St. Nicholas in Khamovniki", "Saint Nicholas Cathedral, Novgorod", "== Serbia ==", "Banja Monastery", "Church of St. Nicholas, Kuršumlija", "==Slovakia==", "St. Nicholas' Church, Bratislava", "Saint Nicholas Concathedral", "St. Nicholas' Church, Stará Ľubovňa", "Saint Nicolas' Church, Trnava", "==Slovenia==", "Ljubljana Cathedral", "Novo Mesto Cathedral", "==Spain==", "San Nicolas Cathedral, Alicante", "Church of San Nicolás (Madrid)", "San Nicolás (Pamplona)", "==Sweden==", "Saint Nicholas Church, Örebro", "Storkyrkan", "==Switzerland==", "Fribourg Cathedral", "==Turkey==", "St. Nicholas Church, Demre", "==Ukraine==", "Kryvka Church", "St. Nicholas Military Cathedral", "St. Nicholas Roman Catholic Cathedral, Kiev", "St. Nicholas Church, Taganrog", "==United Kingdom==", "===England===", "====Berkshire====", "St Nicolas Church, Newbury", "====Bristol====", "St Nicholas, Bristol", "====Cambridgeshire====", "St Nicholas' Church, Kennett", "====Cheshire====", "St Nicholas' Chapel, Chester", "St Nicholas' Chapel, Cholmondeley", "St Nicholas' Church, Burton", "====City of London====", "St Nicholas Cole Abbey", "====County Durham====", "St Nicholas' Church, Durham", "====East Sussex====", "St Nicholas' Church, Brighton", "St Nicolas Church, Portslade", "Hastings Fishermen's Museum", "====Essex====", "St. Nicholas Church, Berden", "====Gloucestershire====", "St Nicholas' Church, Gloucester", "St Nicholas Church, Hardwicke", "St Nicholas of Myra's Church, Ozleworth", "====Greater London====", "Chislehurst of worship", "St. Nicholas Church, Chiswick", "Deptford", "St Nicholas Church, Sutton, London", "St Nicholas, Tooting Graveney", "====Hampshire====", "St. Nicolas' Church, North Stoneham", "St Nicholas' Church, Freefolk", "====Hertfordshire====", "St Nicholas Church, Harpenden", "====Lancashire====", "St Nicholas' Church, Fleetwood", "St Nicholas' Church, Newchurch", "St Nicholas' Church, Wrea Green", "====Leicester====", "St Nicholas' Church, Leicester", "====Lincolnshire====", "St Nicholas' Church, Normanton", "====Merseyside====", "Greek Orthodox Church of St Nicholas", "Church of Our Lady and Saint Nicholas, Liverpool", "St Nicholas' Church, St Helens", "St Nicholas' Church, Wallasey", "St Nicholas' Church, Whiston", "====Norfolk====", "St Nicholas Church, North Walsham", "St Nicholas' Church, Brandiston", "St Nicholas' Church, Buckenham", "St Nicholas' Church, Feltwell", "St Nicholas' Church, Gayton", "St Nicholas Church, Great Yarmouth", "List of buildings in King's Lynn Nicholas' Chapel", "St Nicholas, Blakeney", "====North Yorkshire====", "St. Nicholas's Church, Guisborough", "====Nottinghamshire====", "St Nicholas' Church, Nottingham", "St Nicholas' Church, Littleborough", "====Oxfordshire (formerly within Berkshire)====", "St Nicolas' Church, Abingdon", "====Shropshire====", "St Nicholas Church, Newport", "====Surrey====", "St Nicholas Church, Thames Ditton", "St. Nicolas' Church, Guildford", "====Thurrock====", "St. Nicholas of Myra, South Ockendon", "====Tyne and Wear====", "Newcastle Cathedral", "====Warwickshire====", "St. Nicolas Church, Nuneaton", "St Nicholas' Church, Kenilworth", "====West Midlands (county)====", "St. Nicolas' Church, Kings Norton", "====West Sussex====", "St. Nicholas' Church, West Itchenor", "St. Nicholas' Church, Worth", "St Nicolas' Church, Shoreham-by-Sea", "===Isle of Wight===", "Church of St. Nicholas in Castro, Carisbrooke", "===Scotland===", "Kirk of St Nicholas, Aberdeen", "===Wales===", "St Nicholas' Church, Church Stoke", "==United States==", "St. Nicholas Russian Orthodox Church (Juneau, Alaska)", "St. Nicholas Chapel (Sand Point, Alaska)", "St. Nicholas Chapel (Seldovia, Alaska)", "St. Nicholas Russian Orthodox Church (Kwethluk, Alaska)", "St. Nicholas Greek Orthodox Church", "St. Nicholas Greek Orthodox Church (Tarpon Springs, Florida)", "St. Nicholas Orthodox Church and Rectory", "St. Nicholas of Tolentine Church", "St. Nicholas Catholic Church (Passaic, New Jersey)", "St. Nicholas Greek Orthodox Church", "St. Nicholas Kirche (New York City)", "St. Nicholas Ukrainian Catholic Church", "St. Nicholas' Catholic Church (Osgood, Ohio)", "St. Nicholas' Catholic Church (Zanesville, Ohio)", "St. Nicholas Croatian Church (Millvale, Pennsylvania)", "St. Nicholas Byzantine Catholic Church", "Former Saint Nicholas Croatian Catholic Church (Pittsburgh)", "Saint Nicholas Greek Orthodox Cathedral (Pittsburgh)", "St. Nicholas Cathedral (Washington, D.C.)", "St. Nicholas Cathedral (Chicago)", "==Uruguay==", "Saint Nicholas Greek Orthodox Church, Montevideo"]
 }, {
 	"bookurData": "Cathedral of the Assumption",
-	"wikiData": "Cathedral of the Assumption",
+	"wikiData": "Cathedral of the Assumption (Louisville, Kentucky)",
 	"bookurDataId": "57ea19836d0e81454c7b3138",
-	"wikiDataId": "5965e6a410456ad969294fd4",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965fe8110456ad969308ab9",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["==Europe==", "===Austria===", "Assumption of Mary Cathedral, Sankt Pölten", "[[Cathedral of the Assumption of Mary and St. Rupert, Wiener Neustadt]]", "===Belarus===", "[[Cathedral Basilica of the Assumption of the Blessed Virgin Mary, Pinsk]]", "[[Co-Cathedral of the Assumption of the Virgin and St. Stanislaus, Mogilev]]", "===Croatia===", "Assumption Cathedral in Dubrovnik", "Assumption Cathedral (Krk)", "Cathedral of the Assumption of the Virgin Mary, Varaždin", "===Hungary===", "Assumption Cathedral, Kalocsa", "Assumption Cathedral, Miskolc", "Assumption Cathedral, Vác", "Cathedral Basilica of the Assumption of Our Lady, Győr", "Cathedral of the Assumption, Esztergom", "===Italy===", "Cathedral of the Assumption of Mary (Lecce)", "Cathedral of the Assumption of Mary (Naples)", "Cathedral of the Assumption of Mary (Padua)", "===Ireland===", "Cathedral of the Assumption, Carlow", "[[Cathedral of Our Lady Assumed into Heaven and St Nicholas, Galway]]", "Cathedral of the Assumption, Thurles", "Cathedral of the Assumption of the Blessed Virgin Mary, Tuam", "===Poland===", "[[Cathedral Basilica of the Assumption of the Blessed Virgin Mary, Białystok]]", "[[Cathedral of the Assumption of the Blessed Virgin Mary, Gorzów]]", "[[Cathedral Basilica of the Assumption of the Blessed Virgin Mary, Kielce]]", "Co-Cathedral Basilica of the Assumption, Kołobrzeg", "[[Cathedral Basilica of the Assumption of the Blessed Virgin Mary, Łowicz]]", "Cathedral Basilica of the Assumption, Pelplin", "[[Cathedral Basilica of the Assumption of the Blessed Virgin Mary, Sosnowiec]]", "===Portugal===", "Cathedral of Funchal", "Our Lady of the Assumption Cathedral, Lamego", "Our Lady of the Assumption Cathedral, Santarém", "===Romania===", "Assumption of Mary Cathedral, Baia Mare", "Assumption Cathedral, Zalău", "===Russia===", "Assumption Cathedral in Khabarovsk", "Assumption Cathedral in Moscow", "Assumption Cathedral, Omsk", "[[Cathedral of the Assumption of the Blessed Virgin Mary (Saint Petersburg)]]", "Assumption Cathedral in Smolensk", "Assumption Cathedral, Staraya Ladoga", "Assumption Cathedral in Vladimir", "===Ukraine===", "Assumption Cathedral, Kharkiv", "[[Cathedral of the Assumption of the Blessed Virgin Mary, Kharkiv]]", "Cathedral Basilica of the Assumption, Lviv", "Assumption of the Blessed Virgin Mary Cathedral, Odessa", "===Other countries===", "Cathedral of the Assumption of the Virgin, Tbilisi", "Cathedral of the Assumption of Mary, Hildesheim", "Assumption Cathedral, Chania", "Cathedral of Assumption of Blessed Virgin Mary (Strumica)", "Cathedral of the Assumption, Gozo", "[[Cathedral of the Assumption of the Blessed Virgin Mary (Rožňava)]]", "Assumption Cathedral, Koper", "[[Cathedral of the Dormition of the Mother of God and St Andrew, Birmingham]]", "Cathedral of the Assumption of the Virgin, Tashkent", "==North America==", "===Canada===", "Assumption Cathedral, Trois-Rivières", "Our Lady of Assumption Co-Cathedral", "===United States===", "Cathedral Basilica of the Assumption, Covington, Kentucky", "Cathedral of the Assumption (Louisville, Kentucky)", "Cathedral of Mary of the Assumption (Saginaw, Michigan)", "==Other places==", "Assumption of Mary Cathedral, Hiroshima", "Cathedral of the Assumption, Majuro", "Assumption of the Blessed Virgin Mary Cathedral, Kathmandu", "Assumption Cathedral, Bangkok", "==See also==", "Cathedral of Our Lady of the Assumption (disambiguation)", "Cathedral of Saint Mary of the Assumption (disambiguation)", "Cathedral of Santa Maria Assunta (disambiguation)", "Cathedral of the Dormition (disambiguation)"]
 }, {
 	"bookurData": "Cathedral Quarter",
-	"wikiData": "Cathedral Quarter",
+	"wikiData": "Cathedral Quarter, Belfast",
 	"bookurDataId": "57ea19836d0e81454c7b313c",
-	"wikiDataId": "59669fbd10456ad96983e85f",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5966304510456ad969479b94",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Cathedral Quarter, Belfast", "Cathedral Quarter, Derby", "Cathedral Quarter, Sheffield"]
-}, {
+}, {X
 	"bookurData": "Central Market",
 	"wikiData": "Central market",
 	"bookurDataId": "57ea19836d0e81454c7b3160",
@@ -94,7 +94,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Tyondai Braxton", "==Fresh food markets==", "Adelaide Central Market", "Central Market, Hong Kong", "Riga Central Market", "Central Market, Kuala Lumpur", "Central Market (Lancaster)", "Central Market, Phnom Penh", "Central Market, Sabadell", "Mercado Central de Santiago", "Lajpat Nagar Central Market", "==Grocery chains==", "Central Market (Texas)"]
-}, {
+}, {X
 	"bookurData": "Central Market",
 	"wikiData": "Central market",
 	"bookurDataId": "57ea19836d0e81454c7b3164",
@@ -102,7 +102,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Tyondai Braxton", "==Fresh food markets==", "Adelaide Central Market", "Central Market, Hong Kong", "Riga Central Market", "Central Market, Kuala Lumpur", "Central Market (Lancaster)", "Central Market, Phnom Penh", "Central Market, Sabadell", "Mercado Central de Santiago", "Lajpat Nagar Central Market", "==Grocery chains==", "Central Market (Texas)"]
-}, {
+}, {X
 	"bookurData": "Central Market",
 	"wikiData": "Central market",
 	"bookurDataId": "57ea19836d0e81454c7b3168",
@@ -112,21 +112,21 @@
 	"remark": ["Tyondai Braxton", "==Fresh food markets==", "Adelaide Central Market", "Central Market, Hong Kong", "Riga Central Market", "Central Market, Kuala Lumpur", "Central Market (Lancaster)", "Central Market, Phnom Penh", "Central Market, Sabadell", "Mercado Central de Santiago", "Lajpat Nagar Central Market", "==Grocery chains==", "Central Market (Texas)"]
 }, {
 	"bookurData": "Chain of Lakes",
-	"wikiData": "Chain of Lakes",
+	"wikiData": "Chain of Lakes (Minneapolis)",
 	"bookurDataId": "57ea19846d0e81454c7b3188",
-	"wikiDataId": "5966006d10456ad969312af5",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596631fa10456ad969487033",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["==Bodies of water==", "Chain of Lakes (Winter Haven)", "Chain O'Lakes", "Chain of Lakes (Minneapolis)", "Chain of Lakes (Michigan)", "List of lakes in Hill County, Montana", "Fulton Chain Lakes", "Chain of Lakes (South Dakota)", "==Populated places==", "Chain-O-Lakes, Indiana", "Chain-O-Lakes, Missouri", "==Other==", "Chain of Lakes Middle School", "Chain of Lakes Park", "Chain O'Lakes State Park (Indiana)"]
 }, {
 	"bookurData": "Charlestown",
-	"wikiData": "Charlestown",
+	"wikiData": "Nevis",
 	"bookurDataId": "57ea19846d0e81454c7b31ac",
-	"wikiDataId": "59647693811c3f826c498a7b",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "Nevis",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["=== [[Australia]] ===", "Charlestown (New South Wales)", "=== [[Ireland]] ===", "Charlestown (County Mayo)", "=== [[Saint Kitts and Nevis]] ===", "Charlestown (Saint Kitts and Nevis)", "=== [[Saint Vincent and the Grenadines]] ===", "Charlestown (Canouan)", "=== [[South Africa]] ===", "Charlestown (KwaZulu-Natal)", "=== [[United Kingdom]] ===", "Charlestown (Cornwall)", "Charlestown (Derbyshire)", "Charlestown (Dorset)", "Charlestown (Fife)", "===[[United States of America]]===", "Charlestown (Indiana)", "Charlestown (Maryland)", "Boston/Charlestown", "Charlestown (New Hampshire)", "Charlestown (Rhode Island)", "Charlestown (Wisconsin)", "Charles Town (West Virginia)"]
-}, {
+}, {X
 	"bookurData": "Christuskirche",
 	"wikiData": "Christuskirche",
 	"bookurDataId": "57ea19866d0e81454c7b3284",
@@ -134,7 +134,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Christuskirche (Königsberg)", "Christuskirche, Mainz", "Christuskirche (Paris)", "Christuskirche, Rome", "German Speaking Evangelical Congregation in Iran", "Ratshof Church", "==See also==", "Christ Church (disambiguation)"]
-}, {
+}, {X
 	"bookurData": "Church of San Francisco",
 	"wikiData": "Church of San Francisco",
 	"bookurDataId": "57ea19866d0e81454c7b328c",
@@ -144,13 +144,13 @@
 	"remark": ["== Chile ==", "Church of San Francisco, Castro", "== Colombia ==", "Iglesia de San Francisco (Barranquilla)", "San Francisco Church, Bogotá", "San Francisco religious complex, Cali", "== Costa Rica ==", "Iglesia de San Francisco de Asís (San José)", "== Mexico ==", "Church of San Francisco, Madero Street, Mexico City", "== Philippines ==", "San Francisco Church of Intramuros", "== Spain ==", "Iglesia de San Francisco (Avilés)", "Iglesia de San Francisco (Ceuta)", "Church of San Francisco de Sales (Madrid)", "Iglesia de San Francisco de Asís (Santa Cruz de Tenerife)", "== Venezuela ==", "Iglesia de San Francisco (Caracas)", "== See also in Italian ==", "Church of San Francesco (disambiguation)"]
 }, {
 	"bookurData": "Constitution Hill",
-	"wikiData": "Constitution Hill",
+	"wikiData": "Constitution Hill, Johannesburg",
 	"bookurDataId": "57ea19886d0e81454c7b334c",
-	"wikiDataId": "5965d69e10456ad96925de7a",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965f66610456ad9692df8b4",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Constitution Hill, New South Wales", "Constitution Hill, Aberystwyth", "Constitution Hill, Birmingham", "Constitution Hill, London", "Constitution Hill, Swansea", "Constitution Hill, Johannesburg", "Constitution Hill, Dublin", "Constitution Hill, Quezon City"]
-}, {
+}, {X
 	"bookurData": "Cristo Rei",
 	"wikiData": "Cristo Rei",
 	"bookurDataId": "57ea19896d0e81454c7b33e4",
@@ -160,29 +160,29 @@
 	"remark": ["Cristo Rei, East Timor", "Christ the King (Almada)", "Cristo Rei of Dili", "Cristo Rei, Madeira", "Cristo Rei, Lubango", "==See also==", "Cristo Rey (disambiguation)", "Christ the King (disambiguation)"]
 }, {
 	"bookurData": "Croatian National Theatre",
-	"wikiData": "Croatian National Theatre",
+	"wikiData": "Croatian National Theatre in Zagreb",
 	"bookurDataId": "57ea19896d0e81454c7b33ec",
-	"wikiDataId": "59666a6910456ad969679855",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5966155110456ad9693a4d76",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["HNK Rijeka", "Croatian National Theatre in Mostar", "Croatian National Theatre in Osijek", "Croatian National Theatre in Split", "Croatian National Theatre in Zagreb", "National Theatre in Subotica", "Sarajevo National Theatre"]
 }, {
 	"bookurData": "Cuenca",
-	"wikiData": "Cuenca",
+	"wikiData": "Cuenca (Ecuador)",
 	"bookurDataId": "57ea19896d0e81454c7b340c",
-	"wikiDataId": "59647870811c3f826c4a0e07",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596476ac811c3f826c4990a4",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["Cuenca (Ecuador)", "Cuenca (Spain)"]
 }, {
 	"bookurData": "Cuenca",
-	"wikiData": "Cuenca",
+	"wikiData": "Cuenca (Spain)",
 	"bookurDataId": "57ea19896d0e81454c7b3410",
-	"wikiDataId": "59647870811c3f826c4a0e07",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596476ac811c3f826c4990a6",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["Cuenca (Ecuador)", "Cuenca (Spain)"]
-}, {
+}, {X
 	"bookurData": "Davenport House",
 	"wikiData": "Davenport House",
 	"bookurDataId": "57ea198a6d0e81454c7b3468",
@@ -192,15 +192,15 @@
 	"remark": ["Davenport House (Franklin Township, Michigan)", "Davenport House (New Rochelle, New York)", "Davenport House (Creswell, North Carolina)", "Davenport House (Greer, South Carolina)", "Worfield", "==See also==", "Hanford Davenport House", "Deacon John Davenport House", "Isaiah Davenport House", "Davenport-Bradfield House", "Lispenard-Rodman-Davenport House"]
 }, {
 	"bookurData": "Ebenezer Baptist Church",
-	"wikiData": "Ebenezer Baptist Church",
+	"wikiData": "Martin Luther King Jr. National Historic Site",
 	"bookurDataId": "57ea198d6d0e81454c7b35ec",
-	"wikiDataId": "5965f5c610456ad9692dcbbb",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965f58710456ad9692db6fb",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Ebenezer Missionary Baptist Church", "First Ebenezer Baptist Church", "Ebenezer Baptist Church (Atlanta, Georgia)", "Ebenezer Missionary Baptist Church (Chicago)", "Ebenezer Baptist Church (Atchison, Kansas)", "Ebenezer Baptist Churches"]
-}, {
+}, {X
 	"bookurData": "El Carmen",
-	"wikiData": "El Carmen",
+	"wikiData": "Salinas de El Carmen",
 	"bookurDataId": "57ea198e6d0e81454c7b3630",
 	"wikiDataId": "5966083010456ad969344acc",
 	"wikiDataType": "disambiguation",
@@ -208,21 +208,21 @@
 	"remark": ["==Argentina==", "El Carmen, Jujuy", "==Chile==", "El Carmen, Chile", "==Colombia==", "El Carmen, Santander", "El Carmen de Atrato", "El Carmen del Darién", "El Carmen, Norte de Santander", "El Carmen de Bolívar", "==Costa Rica==", "Carmen District, San José", "==Ecuador==", "El Carmen Canton", "==El Salvador==", "El Carmen, Cuscatlán", "El Carmen, La Unión", "Iglesia El Carmen", "El Carmen, San Marcos", "==Peru==", "El Carmen (San Juan Bautista)", "El Carmen District, Chincha", "==Spain==", "Salinas de El Carmen", "==See also==", "Carmen (disambiguation)"]
 }, {
 	"bookurData": "Falmouth",
-	"wikiData": "Falmouth",
+	"wikiData": "Falmouth (Jamaica)",
 	"bookurDataId": "57ea19906d0e81454c7b3722",
-	"wikiDataId": "596476d1811c3f826c4999f9",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596476d1811c3f826c4999fc",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["=== [[Antigua and Barbuda]] ===", "Falmouth (Antigua)", "=== [[England]] ===", "Falmouth (England)", "=== [[Jamaica]] ===", "Falmouth (Jamaica)", "=== [[United States of America]] ===", "Falmouth (Florida)", "Falmouth (Maine)", "Falmouth (Massachusetts)", "Falmouth (Virginia)"]
 }, {
 	"bookurData": "Fornells",
-	"wikiData": "Fornells",
+	"wikiData": "Fornells, Minorca",
 	"bookurDataId": "57ea19916d0e81454c7b37ca",
-	"wikiDataId": "59661bb610456ad9693d5cf0",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596640bb10456ad969501fd5",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Fornells, Minorca", "Fornells, Catalonia"]
-}, {
+}, {X
 	"bookurData": "Fort St Louis",
 	"wikiData": "Fort St. Louis",
 	"bookurDataId": "57ea19926d0e81454c7b37f6",
@@ -230,7 +230,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Fort Saint Louis (Newfoundland)", "Fort St. Louis (Shelburne County, Nova Scotia)", "Fort St. Louis (Guysborough County, Nova Scotia)", "Fort Chambly", "Fort Saint Louis (Illinois)", "Fort Saint Louis (Texas)", "Fort Saint Louis (Wisconsin)", "Fort Saint Louis (Martinique)", "Saint-Louis, Senegal", "== See also ==", "Saint Louis (disambiguation)"]
-}, {
+}, {X
 	"bookurData": "Founders Hall",
 	"wikiData": "Founders Hall",
 	"bookurDataId": "57ea19926d0e81454c7b3812",
@@ -238,7 +238,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Founders Hall (Pittsfield, Maine)", "Founders Hall, Heidelberg College", "Founders Hall (Prince Edward Island)", "Naval War College Museum"]
-}, {
+}, {X
 	"bookurData": "Franciscan Monastery",
 	"wikiData": "Franciscan monastery",
 	"bookurDataId": "57ea19926d0e81454c7b3822",
@@ -248,13 +248,13 @@
 	"remark": ["Franciscan Friary, Baja", "Franciscan Monastery (Graz)", "Franciscan Monastery in Kadaň", "Mount St. Sepulchre Franciscan Monastery", "Buttevant Franciscan Friary", "Franciscan monastery of Široki Brijeg"]
 }, {
 	"bookurData": "Gediminas Castle",
-	"wikiData": "Gediminas Castle",
+	"wikiData": "Gediminas' Tower",
 	"bookurDataId": "57ea19946d0e81454c7b3902",
-	"wikiDataId": "59662b5610456ad969453cce",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965ca4210456ad9692432ab",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Gediminas Tower", "Lida Castle"]
-}, {
+}, {x
 	"bookurData": "Giant Wheel",
 	"wikiData": "Giant Wheel",
 	"bookurDataId": "57ea19946d0e81454c7b3946",
@@ -272,13 +272,13 @@
 	"remark": ["Governor's House (Peshawar)", "Governor's House (Karachi)", "Governor's House (Lahore)", "Governor's House, Edinburgh", "Governor's House, Knutsford", "Governor's House (Togus, Maine)", "Governor's House (Governors Island)", "Delaware Governor's Mansion", "==See also==", "Governor's house in Medan", "Governor's Mansion (disambiguation)", "Old Governor's Mansion (disambiguation)", "List of governors' mansions in the United States", "Governor's Palace (disambiguation)", "Belmond Governor's Residence", "Government House", "Official residence"]
 }, {
 	"bookurData": "Grand Canal",
-	"wikiData": "Grand Canal",
+	"wikiData": "Grand Canal (China)",
 	"bookurDataId": "57ea19966d0e81454c7b3a08",
-	"wikiDataId": "5965bdfd10456ad96922a3ef",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965bde410456ad96922a1dc",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Grand Canal (China)", "Grand Canal (Venice)", "Grand Canal (Ireland)", "Grand Canal d'Alsace", "Great Recycling and Northern Development Canal", "Erie Canal", "Grand Korean Waterway", "Nicaragua Canal", "== Other =="]
-}, {
+}, {x
 	"bookurData": "Great Patriotic War Museum",
 	"wikiData": "Museum of the Great Patriotic War",
 	"bookurDataId": "57ea19976d0e81454c7b3a60",
@@ -288,21 +288,21 @@
 	"remark": ["Museum of the Great Patriotic War, Moscow", "Belarusian Great Patriotic War Museum"]
 }, {
 	"bookurData": "Hamilton",
-	"wikiData": "Hamilton",
+	"wikiData": "Hamilton (New Zealand)",
 	"bookurDataId": "57ea19996d0e81454c7b3b30",
-	"wikiDataId": "596476f0811c3f826c49a2fa",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596476f0811c3f826c49a2fd",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["===[[Australia]]===", "Hamilton (Victoria)", "===[[Canada]]===", "Hamilton (Ontario)", "===[[Caribbean]]===", "Hamilton (Bermuda)", "===[[New Zealand]]===", "Hamilton (New Zealand)", "===[[United Kingdom]]===", "Hamilton (Scotland)", "===[[United States of America]]===", "Hamilton (Massachusetts)", "Hamilton (New York)", "Hamilton (Ohio)", "Hamilton Township (Atlantic County)", "Hamilton Township (Mercer County)"]
 }, {
 	"bookurData": "Harbour Bridge",
-	"wikiData": "Harbour Bridge",
+	"wikiData": "Sydney Harbour Bridge",
 	"bookurDataId": "57ea19996d0e81454c7b3b60",
-	"wikiDataId": "5966172d10456ad9693b369b",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965bb7910456ad969226940",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Auckland Harbour Bridge", "Tauranga Harbour Bridge", "Great Egg Harbor Bridge", "Saint John Harbour Bridge", "Sydney Harbour Bridge", "Wick Harbour Bridge", "Corpus Christi Harbor Bridge", "Prístavný most"]
-}, {
+}, {x
 	"bookurData": "Heritage Village",
 	"wikiData": "Heritage Village",
 	"bookurDataId": "57ea199a6d0e81454c7b3bd0",
@@ -310,7 +310,7 @@
 	"wikiDataType": "disambiguation",
 	"source": "wikipedia",
 	"remark": ["Heritage Village, Connecticut", "Heritage Village Open", "Heritage Village (Largo, Florida)", "Heritage Village Museum", "Heritage Farm Museum and Village", "Burnaby Village Museum", "Doon Heritage Village", "Mennonite Heritage Village", "Ukrainian Cultural Heritage Village"]
-}, {
+}, {x
 	"bookurData": "Hill Top",
 	"wikiData": "Hilltop",
 	"bookurDataId": "57ea199a6d0e81454c7b3bfc",
@@ -320,13 +320,13 @@
 	"remark": ["Hill", "==Place names==", "Hill Top, New South Wales", "Hill Top, Cumbria", "Hill Top, Stanley", "Hill Top, Teesdale", "Hilltop, Buckinghamshire", "Hilltop, Derbyshire", "West Bromwich", "Hilltop Building, Cloud View Road, North Point", "Fairmede-Hilltop, Richmond, California", "Hilltop Mall", "Hill Top, Maryland", "Hill Top, West Virginia", "Fuller Acres, California", "Hilltop, Georgia", "Hilltop, Jersey City", "Hilltop, Kentucky (disambiguation)", "Hilltop, Minnesota", "Hilltop, Ohio", "Hilltop, Columbus, Ohio", "Hilltop, Texas", "Hilltop Neighborhood, Tacoma, Washington", "Hilltop aka Uptop a Neighborhood in Spring Valley, NY", "Hilltop, Blaenau Gwent", "==Art, entertainment, and media==", "Hilltop Hoods", "The Hilltop (newspaper)", "==Other uses==", "Hilltop Manor (The Cavalier Apartment Building)", "Hilltop algorithm", "Georgetown University", "Hill-topping (biology)"]
 }, {
 	"bookurData": "Hot Springs",
-	"wikiData": "Hot Springs",
+	"wikiData": "Hot Springs (Arkansas)",
 	"bookurDataId": "57ea199c6d0e81454c7b3c98",
-	"wikiDataId": "596476fc811c3f826c49a6b5",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596476fc811c3f826c49a6b6",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["=== [[Canada]] ===", "Hot Springs (British Columbia)", "=== [[United States of America]] ===", "Hot Springs (Arkansas)", "Hot Springs National Park", "Hot Springs (Montana)", "Hot Springs (North Carolina)", "Hot Springs (South Dakota)", "Hot Springs (Virginia)", "Truth or Consequences", "=== See also ===", "Hot springs"]
-}, {
+}, {x
 	"bookurData": "Hotel de Ville",
 	"wikiData": "Hôtel de Ville",
 	"bookurDataId": "57ea199c6d0e81454c7b3c9c",
@@ -336,13 +336,13 @@
 	"remark": ["Hôtel de Ville, Arras", "Hôtel de Ville, Lyon", "Hôtel de Ville, Nouakchott", "Hôtel de Ville, Paris", "Hôtel de Ville (Paris Métro)", "Hôtel de Ville, Reims", "Montreal City Hall", "==See also=="]
 }, {
 	"bookurData": "Hydropark",
-	"wikiData": "Hydropark",
+	"wikiData": "Hydropark in Kiev",
 	"bookurDataId": "57ea199c6d0e81454c7b3cd8",
-	"wikiDataId": "59677a1010456ad969cf1a61",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965fbf210456ad9692fbf6c",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Hydropark in Kiev", "Hydropark in Kherson", "Luzanivka Hydropark", "Topilche Hydropark", "Zhytomyr Hydropark", "==Other uses==", "Hydropark (Kiev Metro)", "Hydropark Arena"]
-}, {
+}, {x
 	"bookurData": "Iglesia de San Francisco",
 	"wikiData": "Church of San Francisco",
 	"bookurDataId": "57ea199c6d0e81454c7b3ce4",
@@ -352,37 +352,37 @@
 	"remark": ["== Chile ==", "Church of San Francisco, Castro", "== Colombia ==", "Iglesia de San Francisco (Barranquilla)", "San Francisco Church, Bogotá", "San Francisco religious complex, Cali", "== Costa Rica ==", "Iglesia de San Francisco de Asís (San José)", "== Mexico ==", "Church of San Francisco, Madero Street, Mexico City", "== Philippines ==", "San Francisco Church of Intramuros", "== Spain ==", "Iglesia de San Francisco (Avilés)", "Iglesia de San Francisco (Ceuta)", "Church of San Francisco de Sales (Madrid)", "Iglesia de San Francisco de Asís (Santa Cruz de Tenerife)", "== Venezuela ==", "Iglesia de San Francisco (Caracas)", "== See also in Italian ==", "Church of San Francesco (disambiguation)"]
 }, {
 	"bookurData": "John Brown House",
-	"wikiData": "John Brown House",
+	"wikiData": "John Brown House (Providence, Rhode Island)",
 	"bookurDataId": "57ea199f6d0e81454c7b3dfc",
-	"wikiDataId": "5966747d10456ad9696e3220",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "596669cd10456ad96967412e",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["John Stanford Brown House", "John Brown Stone Warehouse", "John Brown Cabin", "John C. Brown House", "John Brown IV House", "John Brown Farm and Gravesite", "John Brown House (Akron, Ohio)", "John Hartness Brown House", "John Brown Farmhouse (Hudson, Ohio)", "John and Amelia Brown Farmhouse", "John Brown House (Chambersburg, Pennsylvania)", "John Brown Tannery Site", "John Brown House (Providence, Rhode Island)", "John R. Brown House", "John M. Brown House"]
 }, {
 	"bookurData": "Jonesboro",
-	"wikiData": "Jonesboro",
+	"wikiData": "Jonesboro, Georgia",
 	"bookurDataId": "57ea199f6d0e81454c7b3e08",
-	"wikiDataId": "59647715811c3f826c49abbb",
-	"wikiDataType": "disambiguation",
-	"source": "wikivoyage",
+	"wikiDataId": "5965c2cc10456ad969234297",
+	"wikiDataType": "page",
+	"source": "wikipedia",
 	"remark": ["===[[United States of America]]===", "Jonesboro (Arkansas)", "Jonesboro (Georgia)", "Jonesboro (Illinois)", "Jonesboro (Indiana)", "Jonesboro (Maine)"]
 }, {
 	"bookurData": "Karen Blixen Museum",
-	"wikiData": "Karen Blixen Museum",
+	"wikiData": "Karen Blixen Museum (Kenya)",
 	"bookurDataId": "57ea19a16d0e81454c7b3e78",
-	"wikiDataId": "5967021810456ad969a4cb63",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5966098d10456ad96934ebbf",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["Karen Blixen Museum (Denmark)", "Karen Blixen Museum (Kenya)"]
 }, {
 	"bookurData": "Kings Cross",
-	"wikiData": "Kings Cross",
+	"wikiData": "Sydney/City East",
 	"bookurDataId": "57ea19a36d0e81454c7b3f0c",
-	"wikiDataId": "59647723811c3f826c49afc2",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "59647805811c3f826c49ebc4",
+	"wikiDataType": "page",
 	"source": "wikivoyage",
 	"remark": ["===[[Australia]]===", "Sydney/Kings Cross", "===[[United Kingdom]]===", "London/Camden"]
-}, {
+}, {x
 	"bookurData": "Kings Park",
 	"wikiData": "Kings Park",
 	"bookurDataId": "57ea19a36d0e81454c7b3f10",
@@ -392,13 +392,13 @@
 	"remark": ["King's Park (ward)", "Kings Park, Boscombe", "King's Park, Glasgow", "King's Park, Hong Kong", "King's Park (constituency)", "Kings Park, New South Wales", "Kings Park, New York", "Kings Park, Rhode Island", "Kings Park, South Australia", "King's Park, Stirling", "Kings Park, Victoria", "Kings Park, Virginia", "Kings Park, Western Australia", "King's Park F.C.", "Kings Park Psychiatric Center", "Kings Park Sporting Precinct", "Kings Park Stadium"]
 }, {
 	"bookurData": "Kings Square",
-	"wikiData": "King's Square",
+	"wikiData": "St. George's, Bermuda",
 	"bookurDataId": "57ea19a36d0e81454c7b3f18",
-	"wikiDataId": "5966e7a610456ad9699e2a9b",
-	"wikiDataType": "disambiguation",
+	"wikiDataId": "5965e82b10456ad96929ef55",
+	"wikiDataType": "page",
 	"source": "wikipedia",
 	"remark": ["King Square, London", "King's Square, Barry", "Kings Square, Fremantle", "Benin City", "Kings Square, Gloucester", "St. George's, Bermuda", "Königsplatz (disambiguation)", "Plaça del Rei", "Place du Roi", "== See also ==", "Royal Square (disambiguation)", "Queen's Square (disambiguation)"]
-}, {
+}, {-->
 	"bookurData": "Klondike",
 	"wikiData": "Klondike",
 	"bookurDataId": "57ea19a36d0e81454c7b3f30",
