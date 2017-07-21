@@ -44,7 +44,7 @@ if(fs.existsSync('./mapping/compare' + ctnType + 'Result.json'))
 	data = require('./mapping/compare' + ctnType + 'Result.json')
 if(fs.existsSync('./mapping/compare' + ctnType + 'Manual.json')){
 	let tmp = require('./mapping/compare' + ctnType + 'Manual.json')
-	data.concat(tmp)
+	data = data.concat(tmp)
 }
 
 if(!data){
