@@ -608,10 +608,10 @@ let main = async () => {
 		content.live = content.workspace
 		contentDetails.live = contentDetails.workspace
 
-		content.text = item.wikiData
-		content.workspace.i18n.en.fields.text = item.wikiData
-		contentDetails.text = item.wikiData
-		contentDetails.workspace.i18n.en.fields.text = item.wikiData
+		content.text = item.bookurData
+		content.workspace.i18n.en.fields.text = item.bookurData
+		contentDetails.text = item.bookurData
+		contentDetails.workspace.i18n.en.fields.text = item.bookurData
 
 		if(operateDB){
 			let res
