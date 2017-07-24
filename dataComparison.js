@@ -24,6 +24,8 @@ if(ctnType === 'City')
 	ctnTypeId = '57ed26a06d0e810b357b23c7'
 else if(ctnType === 'Att')
 	ctnTypeId = '57ea19736d0e81454c7b23d2'
+else if(ctnType === 'Country')
+	ctnTypeId = '57e9e2556d0e819c44dc0fc0'
 else{
 	ctnTypeId = '57ed26a06d0e810b357b23c7'
 	ctnType = 'City'

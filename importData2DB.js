@@ -17,6 +17,9 @@ if(ctnType === 'City'){
 } else if(ctnType === 'Att'){
 	ctnTypeId = '57ea19736d0e81454c7b23d2'
 	ctnDetailsTypeId = '587dbef16d0e81d36d53b660'
+} else if(ctnType === 'Country'){
+	ctnTypeId = '57e9e2556d0e819c44dc0fc0'
+	ctnDetailsTypeId = '587dbf5f6d0e81b96d53b660'
 } else{
 	ctnTypeId = '57ed26a06d0e810b357b23c7'
 	ctnDetailsTypeId = '587dbe0c6d0e813d6c53b662'
@@ -44,6 +47,10 @@ if(fs.existsSync('./mapping/compare' + ctnType + 'Result.json'))
 	data = require('./mapping/compare' + ctnType + 'Result.json')
 if(fs.existsSync('./mapping/compare' + ctnType + 'Manual.json')){
 	let tmp = require('./mapping/compare' + ctnType + 'Manual.json')
+	data = data.concat(tmp)
+}
+if(fs.existsSync('./mapping/compare' + ctnType + 'Correction.json')){
+	let tmp = require('./mapping/compare' + ctnType + 'Correction.json')
 	data = data.concat(tmp)
 }
 
@@ -570,31 +577,6 @@ let main = async () => {
 						contentDetails.workspace.fields.staySafe = htmlBody
 
 						break;
-/*
-					case 'Stay healthy':
-						try{
-							htmlBody = await wikiUtil.parseWikitext2Html(wikitextObj[key][0])	
-						} catch(err){
-							console.log('Get html from wikitext %s for wikidata %s Error - %s', key, item.wikiData, err)
-						}
-
-						content.workspace.fields.stayHealthy = htmlBody
-						contentDetails.workspace.fields.stayHealthy = htmlBody
-
-						break;
-
-					case 'Talk':
-						try{
-							htmlBody = await wikiUtil.parseWikitext2Html(wikitextObj[key][0])	
-						} catch(err){
-							console.log('Get html from wikitext %s for wikidata %s Error - %s', key, item.wikiData, err)
-						}
-
-						content.workspace.fields.talk = htmlBody
-						contentDetails.workspace.fields.talk = htmlBody
-
-						break;
-*/
 					default:
 				}
 			}
@@ -608,10 +590,10 @@ let main = async () => {
 		content.live = content.workspace
 		contentDetails.live = contentDetails.workspace
 
-		content.text = item.bookurData
-		content.workspace.i18n.en.fields.text = item.bookurData
-		contentDetails.text = item.bookurData
-		contentDetails.workspace.i18n.en.fields.text = item.bookurData
+		// content.text = item.bookurData
+		// content.workspace.i18n.en.fields.text = item.bookurData
+		// contentDetails.text = item.bookurData
+		// contentDetails.workspace.i18n.en.fields.text = item.bookurData
 
 		if(operateDB){
 			let res
