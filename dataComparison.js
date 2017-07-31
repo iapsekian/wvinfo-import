@@ -8,7 +8,7 @@ const fs=require('fs')
 const MongoClient = require('mongodb').MongoClient
 const wikiUtil = require('./lib/wikiUtil.js')
 
-const mdbUrl4Wiki = 'mongodb://10.211.55.113:27017/en_wikipedia'
+const mdbUrl4Wiki = 'mongodb://192.168.2.248:27017/en_wikipedia'
 const mdbUrl4BookUr = 'mongodb://52.39.111.227:27017/tourbooks'
 
 let wikiData = []
