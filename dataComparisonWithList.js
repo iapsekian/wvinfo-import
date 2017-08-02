@@ -293,7 +293,7 @@ let compareData = async () => {
 		let loc = {} //for ctnSubType === 'WHS' && ctnType === 'City'
 
 		let continueFlag = false
-		if(ctnTypeId === 'City'){
+		if(ctnType === 'City'){
 			if(bookurDataLC.indexOf(listFileData[i].text) === -1)
 				continueFlag = true
 		} else{
