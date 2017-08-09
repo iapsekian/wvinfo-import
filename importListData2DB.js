@@ -379,6 +379,9 @@ let insertSingleContent = async (mdbUrl, ctn, options) => {
 
 }
 
+// commented the following code because get Geo info has been done in dataComparisonWithList.js
+// 
+// 
 // let gmAPIConf
 // let gmAPI
 
@@ -563,6 +566,7 @@ let main = async () => {
 			contentDetails = JSON.parse(JSON.stringify(attDocTemplate))
 			content.typeId = ctnTypeId
 			contentDetails.typeId = ctnDetailsTypeId
+            delete contentDetails.workspace.taxonomy["57ea19736d0e81454c7b23d0"] //Themes
 			delete contentDetails.workspace.taxonomy["57638ca16d0e810758cd2507"] //Tour Destination
 			delete contentDetails.workspace.taxonomy["587863e56d0e81fb4014b289"] //Search Selector
 		}
